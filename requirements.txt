@@ -1,7 +1,8 @@
 pandas
 numpy
-scikit-learn
+scikit-learn==1.9.1
 matplotlib
+seaborn
 openpyxl
 jupyterlab
 xgboost

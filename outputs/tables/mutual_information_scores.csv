@@ -1,0 +1,81 @@
+feature,mutual_information
+potential_diff,0.07149417590275853
+passing_diff,0.07024084228720673
+overall_rating_diff,0.06914559833150102
+technical_diff,0.06634393100060887
+attack_diff,0.05655517267895083
+pace_diff,0.03546407207461888
+recent_goals_scored_diff,0.033652415581188366
+form_points_diff,0.03141499060820885
+away_avg_overall_rating,0.027291616766938143
+home_avg_technical,0.026591625655838058
+goalkeeper_diff,0.026494359033058856
+home_avg_passing,0.025657599785518848
+physical_diff,0.025309508450054752
+away_avg_potential,0.02488788402418085
+defence_diff,0.02464276175012836
+home_form_points_5,0.023266702577317222
+home_avg_potential,0.020039147754250308
+away_avg_passing,0.01985107934577046
+home_avg_overall_rating,0.018364549525346385
+recent_goals_conceded_diff,0.017774069354128175
+away_goalkeeper_rating,0.017439953880610037
+away_form_points_5,0.017200961425229533
+home_goalkeeper_rating,0.017084137327599613
+away_avg_goals_scored_5,0.016038217044166414
+home_avg_attack,0.015251996970947479
+away_avg_pace,0.01505037615747562
+away_avg_goals_conceded_5,0.014510843163822562
+away_players_with_attributes,0.01435124855954606
+defencePressure_diff,0.014107057842288606
+home_avg_goals_scored_5,0.013955942414837219
+away_avg_technical,0.013388285137538203
+home_defencePressure,0.01306739326837758
+home_avg_pace,0.01272716286564668
+away_defencePressure,0.011966533432119286
+home_buildUpPlayPassing,0.011574786003772486
+away_buildUpPlaySpeed,0.011479700627328171
+away_avg_attack,0.010102559585115856
+away_avg_defence,0.009969954701538608
+league_name_England Premier League,0.009843576131132181
+home_chanceCreationPositioningClass_Organised,0.009343871024982242
+buildUpPlayPassing_diff,0.008885815314934487
+home_defenceTeamWidth,0.008212718487106363
+home_chanceCreationShooting,0.008048207329153456
+league_name_Spain LIGA BBVA,0.007471229757989306
+away_buildUpPlayPositioningClass_Organised,0.007273236562352681
+home_avg_physical,0.0072401300082145514
+away_chanceCreationCrossing,0.006896081892655115
+home_avg_goals_conceded_5,0.006140469395518489
+league_name_Portugal Liga ZON Sagres,0.005376659546736162
+away_chanceCreationShooting,0.004673327141751837
+away_defenceDefenderLineClass_Offside Trap,0.004510534586100068
+away_chanceCreationPositioningClass_Organised,0.004380923470506559
+away_defenceTeamWidth,0.004333850158239283
+away_avg_physical,0.004331906368081784
+league_name_Scotland Premier League,0.002984938831816608
+chanceCreationShooting_diff,0.0029104950599512236
+away_buildUpPlayPassing,0.0028133655889062137
+defenceAggression_diff,0.0026633827875852667
+league_name_Switzerland Super League,0.002566640453933733
+home_chanceCreationCrossing,0.0011318890525313652
+away_defenceAggression,0.0009472811953585847
+home_chanceCreationPassing,0.00011529087300199414
+buildUpPlaySpeed_diff,9.695451338398442e-05
+home_defenceDefenderLineClass_Offside Trap,0.0
+league_name_Poland Ekstraklasa,0.0
+home_buildUpPlayPositioningClass_Organised,0.0
+home_defenceAggression,0.0
+home_avg_defence,0.0
+league_name_France Ligue 1,0.0
+league_name_Netherlands Eredivisie,0.0
+league_name_Italy Serie A,0.0
+league_name_Germany 1. Bundesliga,0.0
+home_buildUpPlaySpeed,0.0
+away_chanceCreationPassing,0.0
+season_start_year,0.0
+defenceTeamWidth_diff,0.0
+chanceCreationCrossing_diff,0.0
+chanceCreationPassing_diff,0.0
+home_players_with_attributes,0.0
+stage,0.0

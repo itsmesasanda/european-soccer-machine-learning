@@ -1,0 +1,5 @@
+feature_1,feature_2,correlation
+away_players_with_attributes,away_players_listed,0.9718099374599589
+home_players_with_attributes,home_players_listed,0.9678176563289916
+away_avg_potential,away_avg_overall_rating,0.952421270905081
+home_avg_potential,home_avg_overall_rating,0.9530872544871184
