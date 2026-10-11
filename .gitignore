@@ -9,6 +9,10 @@ data/processed/
 
 notebooks/data/
 
-models/
-
-!.gitkeep
+models/*
+!models/.gitkeep
+!models/team_profiling/
+!models/team_profiling/final_features.json
+!models/team_profiling/profile_names.json
+!models/team_profiling/team_profile_kmeans.joblib
+!models/team_profiling/team_profile_scaler.joblib

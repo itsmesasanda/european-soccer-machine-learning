@@ -1,0 +1,16 @@
+feature
+avg_overall_rating
+development_gap
+goalkeeper_relative_strength
+avg_pace
+avg_physical
+avg_defence
+attack_defence_balance
+buildUpPlaySpeed
+buildUpPlayPassing
+chanceCreationPassing
+chanceCreationCrossing
+chanceCreationShooting
+defencePressure
+defenceAggression
+defenceTeamWidth

@@ -1,0 +1,6 @@
+**
+!huggingface_app/
+!huggingface_app/**
+!models/
+!models/team_profiling/
+!models/team_profiling/**

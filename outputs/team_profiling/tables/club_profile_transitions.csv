@@ -1,0 +1,725 @@
+team_api_id,team_name,season,team_profile,kmeans_cluster,points_per_match,season_order,previous_profile,previous_cluster,previous_season_order,consecutive,profile_changed
+1601,Ruch Chorzów,2013/2014,Lower-Strength Profile,3,1.5714285714285714,3,Lower-Strength Profile,3.0,2.0,True,False
+1601,Ruch Chorzów,2014/2015,Lower-Strength Profile,3,1.1785714285714286,4,Lower-Strength Profile,3.0,3.0,True,False
+1601,Ruch Chorzów,2015/2016,Lower-Strength Profile,3,1.2222222222222223,5,Lower-Strength Profile,3.0,4.0,True,False
+1957,Jagiellonia Białystok,2013/2014,Lower-Strength Profile,3,1.2962962962962965,3,Lower-Strength Profile,3.0,2.0,True,False
+1957,Jagiellonia Białystok,2014/2015,Lower-Strength Profile,3,1.5555555555555556,4,Lower-Strength Profile,3.0,3.0,True,False
+1957,Jagiellonia Białystok,2015/2016,Lower-Strength Profile,3,1.1428571428571428,5,Lower-Strength Profile,3.0,4.0,True,False
+2033,S.C. Olhanense,2011/2012,Lower-Strength Profile,3,1.3703703703703705,1,Lower-Strength Profile,3.0,0.0,True,False
+2033,S.C. Olhanense,2012/2013,Lower-Strength Profile,3,0.7307692307692307,2,Lower-Strength Profile,3.0,1.0,True,False
+2033,S.C. Olhanense,2013/2014,Lower-Strength Profile,3,0.75,3,Lower-Strength Profile,3.0,2.0,True,False
+2182,Lech Poznań,2013/2014,High-Pressure Wide Play,1,1.75,3,High-Pressure Wide Play,1.0,2.0,True,False
+2182,Lech Poznań,2014/2015,High-Pressure Wide Play,1,1.7857142857142858,4,High-Pressure Wide Play,1.0,3.0,True,False
+2182,Lech Poznań,2015/2016,High-Pressure Wide Play,1,1.4285714285714286,5,High-Pressure Wide Play,1.0,4.0,True,False
+2186,Cracovia,2014/2015,Lower-Strength Profile,3,1.2142857142857142,4,Lower-Strength Profile,3.0,3.0,True,False
+2186,Cracovia,2015/2016,Lower-Strength Profile,3,1.5714285714285714,5,Lower-Strength Profile,3.0,4.0,True,False
+4087,Évian Thonon Gaillard FC,2012/2013,High-Pressure Wide Play,1,1.0,2,High-Pressure Wide Play,1.0,1.0,True,False
+4087,Évian Thonon Gaillard FC,2013/2014,High-Pressure Wide Play,1,1.1578947368421053,3,High-Pressure Wide Play,1.0,2.0,True,False
+4087,Évian Thonon Gaillard FC,2014/2015,Physical Defensive Build-Up,0,0.9736842105263158,4,High-Pressure Wide Play,1.0,3.0,True,True
+6403,FC Paços de Ferreira,2011/2012,Lower-Strength Profile,3,1.0,1,Lower-Strength Profile,3.0,0.0,True,False
+6403,FC Paços de Ferreira,2012/2013,Lower-Strength Profile,3,1.7692307692307692,2,Lower-Strength Profile,3.0,1.0,True,False
+6403,FC Paços de Ferreira,2013/2014,Lower-Strength Profile,3,0.7142857142857143,3,Lower-Strength Profile,3.0,2.0,True,False
+6403,FC Paços de Ferreira,2014/2015,Lower-Strength Profile,3,1.1666666666666667,4,Lower-Strength Profile,3.0,3.0,True,False
+6403,FC Paços de Ferreira,2015/2016,Lower-Strength Profile,3,1.3333333333333333,5,Lower-Strength Profile,3.0,4.0,True,False
+6413,PEC Zwolle,2014/2015,High-Pressure Wide Play,1,1.46875,4,Lower-Strength Profile,3.0,3.0,True,True
+6413,PEC Zwolle,2015/2016,High-Pressure Wide Play,1,1.411764705882353,5,High-Pressure Wide Play,1.0,4.0,True,False
+7730,FC Lausanne-Sports,2012/2013,Lower-Strength Profile,3,0.9166666666666666,2,Lower-Strength Profile,3.0,1.0,True,False
+7730,FC Lausanne-Sports,2013/2014,Lower-Strength Profile,3,0.6666666666666666,3,Lower-Strength Profile,3.0,2.0,True,False
+7788,SC Cambuur,2015/2016,Lower-Strength Profile,3,0.5294117647058824,5,Lower-Strength Profile,3.0,4.0,True,False
+7794,SC Bastia,2013/2014,Lower-Strength Profile,3,1.2162162162162162,3,Lower-Strength Profile,3.0,2.0,True,False
+7794,SC Bastia,2014/2015,Lower-Strength Profile,3,1.236842105263158,4,Lower-Strength Profile,3.0,3.0,True,False
+7794,SC Bastia,2015/2016,Lower-Strength Profile,3,1.3157894736842106,5,Lower-Strength Profile,3.0,4.0,True,False
+7819,SM Caen,2011/2012,High-Pressure Wide Play,1,1.0,1,High-Pressure Wide Play,1.0,0.0,True,False
+7819,SM Caen,2015/2016,Physical Defensive Build-Up,0,1.4210526315789471,5,Lower-Strength Profile,3.0,4.0,True,True
+7841,Rio Ave FC,2011/2012,Lower-Strength Profile,3,0.8888888888888888,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+7841,Rio Ave FC,2012/2013,Lower-Strength Profile,3,1.3846153846153846,2,Lower-Strength Profile,3.0,1.0,True,False
+7841,Rio Ave FC,2013/2014,Lower-Strength Profile,3,1.1071428571428572,3,Lower-Strength Profile,3.0,2.0,True,False
+7841,Rio Ave FC,2014/2015,High-Pressure Wide Play,1,1.1,4,Lower-Strength Profile,3.0,3.0,True,True
+7841,Rio Ave FC,2015/2016,High-Pressure Wide Play,1,1.4333333333333331,5,High-Pressure Wide Play,1.0,4.0,True,False
+7842,Estoril Praia,2014/2015,Physical Defensive Build-Up,0,1.0,4,Physical Defensive Build-Up,0.0,3.0,True,False
+7842,Estoril Praia,2015/2016,High-Pressure Wide Play,1,1.2333333333333334,5,Physical Defensive Build-Up,0.0,4.0,True,True
+7844,Vitória Guimarães,2011/2012,High-Pressure Wide Play,1,1.4074074074074074,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+7844,Vitória Guimarães,2012/2013,High-Pressure Wide Play,1,1.2692307692307692,2,High-Pressure Wide Play,1.0,1.0,True,False
+7844,Vitória Guimarães,2013/2014,High-Pressure Wide Play,1,1.1428571428571428,3,High-Pressure Wide Play,1.0,2.0,True,False
+7844,Vitória Guimarães,2014/2015,High-Pressure Wide Play,1,1.6,4,High-Pressure Wide Play,1.0,3.0,True,False
+7844,Vitória Guimarães,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.0666666666666669,5,High-Pressure Wide Play,1.0,4.0,True,True
+7878,Granada CF,2012/2013,High-Pressure Wide Play,1,1.105263157894737,2,High-Pressure Wide Play,1.0,1.0,True,False
+7878,Granada CF,2013/2014,High-Pressure Wide Play,1,1.0789473684210529,3,High-Pressure Wide Play,1.0,2.0,True,False
+7878,Granada CF,2014/2015,High-Pressure Wide Play,1,0.9210526315789472,4,High-Pressure Wide Play,1.0,3.0,True,False
+7878,Granada CF,2015/2016,High-Pressure Wide Play,1,1.0263157894736843,5,High-Pressure Wide Play,1.0,4.0,True,False
+7943,Sassuolo,2014/2015,Physical Defensive Build-Up,0,1.2894736842105263,4,Physical Defensive Build-Up,0.0,3.0,True,False
+7943,Sassuolo,2015/2016,Physical Defensive Build-Up,0,1.605263157894737,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8020,Polonia Bytom,2013/2014,Lower-Strength Profile,3,1.3333333333333333,3,Lower-Strength Profile,3.0,2.0,True,False
+8020,Polonia Bytom,2014/2015,Lower-Strength Profile,3,1.3214285714285714,4,Lower-Strength Profile,3.0,3.0,True,False
+8020,Polonia Bytom,2015/2016,Lower-Strength Profile,3,0.925925925925926,5,Lower-Strength Profile,3.0,4.0,True,False
+8021,Zagłębie Lubin,2013/2014,Lower-Strength Profile,3,0.9629629629629628,3,Lower-Strength Profile,3.0,2.0,True,False
+8023,Pogoń Szczecin,2015/2016,Lower-Strength Profile,3,1.5925925925925926,5,Lower-Strength Profile,3.0,4.0,True,False
+8024,Widzew Łódź,2013/2014,Lower-Strength Profile,3,0.7037037037037037,3,Lower-Strength Profile,3.0,2.0,True,False
+8025,Śląsk Wrocław,2013/2014,Lower-Strength Profile,3,1.2222222222222223,3,Lower-Strength Profile,3.0,2.0,True,False
+8025,Śląsk Wrocław,2014/2015,Lower-Strength Profile,3,1.4444444444444444,4,Lower-Strength Profile,3.0,3.0,True,False
+8025,Śląsk Wrocław,2015/2016,Lower-Strength Profile,3,1.0,5,Lower-Strength Profile,3.0,4.0,True,False
+8028,Piast Gliwice,2013/2014,Lower-Strength Profile,3,1.1785714285714286,3,Lower-Strength Profile,3.0,2.0,True,False
+8028,Piast Gliwice,2014/2015,Lower-Strength Profile,3,1.1851851851851851,4,Lower-Strength Profile,3.0,3.0,True,False
+8028,Piast Gliwice,2015/2016,Lower-Strength Profile,3,1.8148148148148149,5,Lower-Strength Profile,3.0,4.0,True,False
+8030,Lechia Gdańsk,2014/2015,Lower-Strength Profile,3,1.2592592592592593,4,Lower-Strength Profile,3.0,3.0,True,False
+8030,Lechia Gdańsk,2015/2016,Lower-Strength Profile,3,1.1851851851851851,5,Lower-Strength Profile,3.0,4.0,True,False
+8033,Podbeskidzie Bielsko-Biała,2014/2015,Lower-Strength Profile,3,1.1851851851851851,4,Lower-Strength Profile,3.0,3.0,True,False
+8033,Podbeskidzie Bielsko-Biała,2015/2016,Lower-Strength Profile,3,1.1428571428571428,5,Lower-Strength Profile,3.0,4.0,True,False
+8066,Inverness Caledonian Thistle,2012/2013,Lower-Strength Profile,3,1.2903225806451613,2,Lower-Strength Profile,3.0,1.0,True,False
+8066,Inverness Caledonian Thistle,2013/2014,Lower-Strength Profile,3,1.5142857142857142,3,Lower-Strength Profile,3.0,2.0,True,False
+8066,Inverness Caledonian Thistle,2014/2015,Lower-Strength Profile,3,1.7567567567567568,4,Lower-Strength Profile,3.0,3.0,True,False
+8066,Inverness Caledonian Thistle,2015/2016,Lower-Strength Profile,3,1.368421052631579,5,Lower-Strength Profile,3.0,4.0,True,False
+8165,1. FC Nürnberg,2011/2012,Physical Defensive Build-Up,0,1.181818181818182,1,High-Pressure Wide Play,1.0,0.0,True,True
+8165,1. FC Nürnberg,2012/2013,Physical Defensive Build-Up,0,1.2941176470588236,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8165,1. FC Nürnberg,2013/2014,Physical Defensive Build-Up,0,0.7575757575757576,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8177,Hertha BSC Berlin,2014/2015,Physical Defensive Build-Up,0,1.0294117647058822,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8177,Hertha BSC Berlin,2015/2016,Physical Defensive Build-Up,0,1.4705882352941178,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8178,Bayer 04 Leverkusen,2011/2012,Physical Defensive Build-Up,0,1.5454545454545454,1,Elite All-Round Profile,4.0,0.0,True,True
+8178,Bayer 04 Leverkusen,2012/2013,Physical Defensive Build-Up,0,1.911764705882353,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8178,Bayer 04 Leverkusen,2013/2014,Physical Defensive Build-Up,0,1.7941176470588236,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8178,Bayer 04 Leverkusen,2014/2015,Physical Defensive Build-Up,0,1.7941176470588236,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8178,Bayer 04 Leverkusen,2015/2016,Elite All-Round Profile,4,1.818181818181818,5,Physical Defensive Build-Up,0.0,4.0,True,True
+8197,Leicester City,2015/2016,High-Pressure Wide Play,1,2.1621621621621623,5,High-Pressure Wide Play,1.0,4.0,True,False
+8203,KV Mechelen,2011/2012,Lower-Strength Profile,3,1.1538461538461535,1,High-Pressure Wide Play,1.0,0.0,True,True
+8203,KV Mechelen,2012/2013,Lower-Strength Profile,3,1.4285714285714286,2,Lower-Strength Profile,3.0,1.0,True,False
+8203,KV Mechelen,2015/2016,Lower-Strength Profile,3,1.1724137931034482,5,Lower-Strength Profile,3.0,4.0,True,False
+8226,TSG 1899 Hoffenheim,2011/2012,High-Pressure Wide Play,1,1.1515151515151516,1,Elite All-Round Profile,4.0,0.0,True,True
+8226,TSG 1899 Hoffenheim,2012/2013,High-Pressure Wide Play,1,0.9117647058823528,2,High-Pressure Wide Play,1.0,1.0,True,False
+8226,TSG 1899 Hoffenheim,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.2941176470588236,3,High-Pressure Wide Play,1.0,2.0,True,True
+8226,TSG 1899 Hoffenheim,2014/2015,Elite All-Round Profile,4,1.2941176470588236,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,True
+8226,TSG 1899 Hoffenheim,2015/2016,Elite All-Round Profile,4,1.0909090909090908,5,Elite All-Round Profile,4.0,4.0,True,False
+8245,Korona Kielce,2014/2015,Lower-Strength Profile,3,1.3333333333333333,4,High-Pressure Wide Play,1.0,3.0,True,True
+8245,Korona Kielce,2015/2016,Lower-Strength Profile,3,1.2142857142857142,5,Lower-Strength Profile,3.0,4.0,True,False
+8277,Vitesse,2011/2012,High-Pressure Wide Play,1,1.5588235294117647,1,Lower-Strength Profile,3.0,0.0,True,True
+8277,Vitesse,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.8125,2,High-Pressure Wide Play,1.0,1.0,True,True
+8277,Vitesse,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.6,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+8277,Vitesse,2014/2015,High-Pressure Wide Play,1,1.6451612903225807,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,True
+8277,Vitesse,2015/2016,High-Pressure Wide Play,1,1.3529411764705883,5,High-Pressure Wide Play,1.0,4.0,True,False
+8284,Dundee FC,2015/2016,Lower-Strength Profile,3,1.263157894736842,5,Lower-Strength Profile,3.0,4.0,True,False
+8302,Sevilla FC,2011/2012,Elite All-Round Profile,4,1.3157894736842106,1,Elite All-Round Profile,4.0,0.0,True,False
+8302,Sevilla FC,2012/2013,Physical Defensive Build-Up,0,1.3157894736842106,2,Elite All-Round Profile,4.0,1.0,True,True
+8302,Sevilla FC,2013/2014,Physical Defensive Build-Up,0,1.6578947368421053,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8302,Sevilla FC,2014/2015,Physical Defensive Build-Up,0,1.972972972972973,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8302,Sevilla FC,2015/2016,Physical Defensive Build-Up,0,1.4054054054054057,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8305,Getafe CF,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.2702702702702702,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,False
+8305,Getafe CF,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.2702702702702702,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+8305,Getafe CF,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.105263157894737,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+8305,Getafe CF,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,0.9736842105263158,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+8305,Getafe CF,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,0.9473684210526316,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+8315,Athletic Club de Bilbao,2011/2012,High-Pressure Wide Play,1,1.2972972972972974,1,Physical Defensive Build-Up,0.0,0.0,True,True
+8315,Athletic Club de Bilbao,2012/2013,Physical Defensive Build-Up,0,1.1842105263157894,2,High-Pressure Wide Play,1.0,1.0,True,True
+8315,Athletic Club de Bilbao,2013/2014,Physical Defensive Build-Up,0,1.8421052631578947,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8315,Athletic Club de Bilbao,2014/2015,Physical Defensive Build-Up,0,1.4473684210526316,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8315,Athletic Club de Bilbao,2015/2016,Physical Defensive Build-Up,0,1.631578947368421,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8342,Club Brugge KV,2011/2012,High-Pressure Wide Play,1,2.0,1,High-Pressure Wide Play,1.0,0.0,True,False
+8342,Club Brugge KV,2012/2013,High-Pressure Wide Play,1,1.7142857142857142,2,High-Pressure Wide Play,1.0,1.0,True,False
+8342,Club Brugge KV,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,2.1333333333333333,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+8348,Moreirense FC,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.0333333333333334,5,Lower-Strength Profile,3.0,4.0,True,True
+8350,1. FC Kaiserslautern,2011/2012,Lower-Strength Profile,3,0.6666666666666666,1,High-Pressure Wide Play,1.0,0.0,True,True
+8358,SC Freiburg,2011/2012,Lower-Strength Profile,3,1.181818181818182,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8358,SC Freiburg,2012/2013,Physical Defensive Build-Up,0,1.5151515151515151,2,Lower-Strength Profile,3.0,1.0,True,True
+8358,SC Freiburg,2013/2014,Physical Defensive Build-Up,0,1.0588235294117647,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8358,SC Freiburg,2014/2015,Physical Defensive Build-Up,0,1.0,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8370,Rayo Vallecano,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.394736842105263,2,High-Pressure Wide Play,1.0,1.0,True,True
+8370,Rayo Vallecano,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.0810810810810811,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+8370,Rayo Vallecano,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.2894736842105263,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+8370,Rayo Vallecano,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,0.945945945945946,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+8371,CA Osasuna,2011/2012,High-Pressure Wide Play,1,1.4324324324324325,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8371,CA Osasuna,2012/2013,High-Pressure Wide Play,1,1.054054054054054,2,High-Pressure Wide Play,1.0,1.0,True,False
+8371,CA Osasuna,2013/2014,High-Pressure Wide Play,1,0.972972972972973,3,High-Pressure Wide Play,1.0,2.0,True,False
+8372,SD Eibar,2015/2016,Physical Defensive Build-Up,0,1.131578947368421,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8394,Real Zaragoza,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.135135135135135,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,False
+8394,Real Zaragoza,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,0.8947368421052632,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+8406,FC Augsburg,2012/2013,High-Pressure Wide Play,1,1.0,2,High-Pressure Wide Play,1.0,1.0,True,False
+8406,FC Augsburg,2013/2014,Physical Defensive Build-Up,0,1.5294117647058822,3,High-Pressure Wide Play,1.0,2.0,True,True
+8406,FC Augsburg,2014/2015,Physical Defensive Build-Up,0,1.4411764705882353,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8406,FC Augsburg,2015/2016,Physical Defensive Build-Up,0,1.1515151515151516,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8426,Partick Thistle F.C.,2015/2016,Lower-Strength Profile,3,1.2105263157894737,5,Lower-Strength Profile,3.0,4.0,True,False
+8429,Hamilton Academical FC,2015/2016,Lower-Strength Profile,3,1.131578947368421,5,Lower-Strength Profile,3.0,4.0,True,False
+8455,Chelsea,2011/2012,Elite All-Round Profile,4,1.648648648648649,1,Elite All-Round Profile,4.0,0.0,True,False
+8455,Chelsea,2012/2013,Elite All-Round Profile,4,1.945945945945946,2,Elite All-Round Profile,4.0,1.0,True,False
+8455,Chelsea,2013/2014,Elite All-Round Profile,4,2.1578947368421053,3,Elite All-Round Profile,4.0,2.0,True,False
+8455,Chelsea,2014/2015,Elite All-Round Profile,4,2.27027027027027,4,Elite All-Round Profile,4.0,3.0,True,False
+8455,Chelsea,2015/2016,Physical Defensive Build-Up,0,1.3157894736842106,5,Elite All-Round Profile,4.0,4.0,True,True
+8456,Manchester City,2011/2012,Elite All-Round Profile,4,2.324324324324324,1,Elite All-Round Profile,4.0,0.0,True,False
+8456,Manchester City,2012/2013,Elite All-Round Profile,4,2.027027027027027,2,Elite All-Round Profile,4.0,1.0,True,False
+8456,Manchester City,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,2.324324324324324,3,Elite All-Round Profile,4.0,2.0,True,True
+8456,Manchester City,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,2.0789473684210527,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+8456,Manchester City,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.7027027027027026,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+8464,N.E.C.,2011/2012,Lower-Strength Profile,3,1.3235294117647058,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8464,N.E.C.,2012/2013,Lower-Strength Profile,3,1.0625,2,Lower-Strength Profile,3.0,1.0,True,False
+8464,N.E.C.,2013/2014,Lower-Strength Profile,3,0.9655172413793104,3,Lower-Strength Profile,3.0,2.0,True,False
+8466,Southampton,2013/2014,Elite All-Round Profile,4,1.4736842105263157,3,High-Pressure Wide Play,1.0,2.0,True,True
+8466,Southampton,2014/2015,Elite All-Round Profile,4,1.5789473684210529,4,Elite All-Round Profile,4.0,3.0,True,False
+8466,Southampton,2015/2016,Physical Defensive Build-Up,0,1.6756756756756757,5,Elite All-Round Profile,4.0,4.0,True,True
+8467,St. Johnstone FC,2011/2012,Lower-Strength Profile,3,1.3055555555555556,1,Lower-Strength Profile,3.0,0.0,True,False
+8467,St. Johnstone FC,2012/2013,Lower-Strength Profile,3,1.4193548387096775,2,Lower-Strength Profile,3.0,1.0,True,False
+8467,St. Johnstone FC,2013/2014,Lower-Strength Profile,3,1.3235294117647058,3,Lower-Strength Profile,3.0,2.0,True,False
+8467,St. Johnstone FC,2014/2015,Lower-Strength Profile,3,1.5,4,Lower-Strength Profile,3.0,3.0,True,False
+8467,St. Johnstone FC,2015/2016,Lower-Strength Profile,3,1.4736842105263157,5,Lower-Strength Profile,3.0,4.0,True,False
+8472,Sunderland,2011/2012,Physical Defensive Build-Up,0,1.1891891891891893,1,Physical Defensive Build-Up,0.0,0.0,True,False
+8472,Sunderland,2012/2013,High-Pressure Wide Play,1,1.0263157894736843,2,Physical Defensive Build-Up,0.0,1.0,True,True
+8472,Sunderland,2013/2014,Physical Defensive Build-Up,0,1.027027027027027,3,High-Pressure Wide Play,1.0,2.0,True,True
+8472,Sunderland,2014/2015,Physical Defensive Build-Up,0,1.0,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8472,Sunderland,2015/2016,Physical Defensive Build-Up,0,1.0263157894736843,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8475,Waasland-Beveren,2015/2016,Lower-Strength Profile,3,1.103448275862069,5,Lower-Strength Profile,3.0,4.0,True,False
+8481,AS Nancy-Lorraine,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.1842105263157894,1,High-Pressure Wide Play,1.0,0.0,True,True
+8481,AS Nancy-Lorraine,2012/2013,Lower-Strength Profile,3,1.0,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,True
+8485,Aberdeen,2011/2012,Lower-Strength Profile,3,0.9714285714285714,1,High-Pressure Wide Play,1.0,0.0,True,True
+8485,Aberdeen,2012/2013,Lower-Strength Profile,3,1.1935483870967742,2,Lower-Strength Profile,3.0,1.0,True,False
+8485,Aberdeen,2013/2014,Lower-Strength Profile,3,1.7714285714285714,3,Lower-Strength Profile,3.0,2.0,True,False
+8485,Aberdeen,2014/2015,High-Pressure Wide Play,1,1.945945945945946,4,Lower-Strength Profile,3.0,3.0,True,True
+8485,Aberdeen,2015/2016,High-Pressure Wide Play,1,1.868421052631579,5,High-Pressure Wide Play,1.0,4.0,True,False
+8521,Stade Brestois 29,2011/2012,Lower-Strength Profile,3,1.0810810810810811,1,High-Pressure Wide Play,1.0,0.0,True,True
+8521,Stade Brestois 29,2012/2013,Lower-Strength Profile,3,0.7027027027027027,2,Lower-Strength Profile,3.0,1.0,True,False
+8524,Atalanta,2012/2013,Physical Defensive Build-Up,0,1.105263157894737,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8524,Atalanta,2013/2014,Physical Defensive Build-Up,0,1.3157894736842106,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8524,Atalanta,2014/2015,Physical Defensive Build-Up,0,0.9736842105263158,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8524,Atalanta,2015/2016,Physical Defensive Build-Up,0,1.135135135135135,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8525,Willem II,2015/2016,Lower-Strength Profile,3,0.8529411764705882,5,Lower-Strength Profile,3.0,4.0,True,False
+8528,Wigan Athletic,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.0857142857142856,1,Physical Defensive Build-Up,0.0,0.0,True,True
+8528,Wigan Athletic,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,0.8918918918918919,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+8529,Cagliari,2011/2012,Physical Defensive Build-Up,0,1.0571428571428572,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8529,Cagliari,2012/2013,Physical Defensive Build-Up,0,1.236842105263158,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8529,Cagliari,2013/2014,Physical Defensive Build-Up,0,1.0263157894736843,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8529,Cagliari,2014/2015,Physical Defensive Build-Up,0,0.8947368421052632,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8530,Catania,2011/2012,Physical Defensive Build-Up,0,1.2424242424242424,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8530,Catania,2012/2013,Physical Defensive Build-Up,0,1.4736842105263157,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8530,Catania,2013/2014,Physical Defensive Build-Up,0,0.8421052631578947,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8533,Chievo Verona,2011/2012,Physical Defensive Build-Up,0,1.25,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8533,Chievo Verona,2012/2013,Physical Defensive Build-Up,0,1.1842105263157894,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8533,Chievo Verona,2013/2014,Physical Defensive Build-Up,0,0.9473684210526316,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8533,Chievo Verona,2014/2015,Physical Defensive Build-Up,0,1.135135135135135,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8533,Chievo Verona,2015/2016,Physical Defensive Build-Up,0,1.3157894736842106,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8534,Empoli,2015/2016,High-Pressure Wide Play,1,1.2105263157894737,5,High-Pressure Wide Play,1.0,4.0,True,False
+8535,Fiorentina,2011/2012,Physical Defensive Build-Up,0,1.2352941176470589,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8535,Fiorentina,2012/2013,Physical Defensive Build-Up,0,1.8421052631578947,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8535,Fiorentina,2013/2014,Physical Defensive Build-Up,0,1.7105263157894737,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8535,Fiorentina,2014/2015,Elite All-Round Profile,4,1.6842105263157894,4,Physical Defensive Build-Up,0.0,3.0,True,True
+8535,Fiorentina,2015/2016,Elite All-Round Profile,4,1.648648648648649,5,Elite All-Round Profile,4.0,4.0,True,False
+8540,Palermo,2011/2012,Physical Defensive Build-Up,0,1.131578947368421,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8540,Palermo,2012/2013,Physical Defensive Build-Up,0,0.8648648648648649,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8540,Palermo,2015/2016,Physical Defensive Build-Up,0,1.027027027027027,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8543,Lazio,2011/2012,Physical Defensive Build-Up,0,1.6388888888888888,1,Elite All-Round Profile,4.0,0.0,True,True
+8543,Lazio,2012/2013,Physical Defensive Build-Up,0,1.605263157894737,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8543,Lazio,2013/2014,Elite All-Round Profile,4,1.4736842105263157,3,Physical Defensive Build-Up,0.0,2.0,True,True
+8543,Lazio,2014/2015,Elite All-Round Profile,4,1.7837837837837838,4,Elite All-Round Profile,4.0,3.0,True,False
+8543,Lazio,2015/2016,Elite All-Round Profile,4,1.4210526315789471,5,Elite All-Round Profile,4.0,4.0,True,False
+8548,Rangers,2011/2012,High-Pressure Wide Play,1,2.1142857142857143,1,Elite All-Round Profile,4.0,0.0,True,True
+8551,Siena,2012/2013,Physical Defensive Build-Up,0,0.9473684210526316,2,Lower-Strength Profile,3.0,1.0,True,True
+8558,RCD Espanyol,2011/2012,High-Pressure Wide Play,1,1.2105263157894737,1,High-Pressure Wide Play,1.0,0.0,True,False
+8558,RCD Espanyol,2012/2013,Physical Defensive Build-Up,0,1.1578947368421053,2,High-Pressure Wide Play,1.0,1.0,True,True
+8558,RCD Espanyol,2013/2014,Physical Defensive Build-Up,0,1.105263157894737,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8558,RCD Espanyol,2014/2015,Physical Defensive Build-Up,0,1.2894736842105263,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8558,RCD Espanyol,2015/2016,Physical Defensive Build-Up,0,1.131578947368421,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8559,Bolton Wanderers,2011/2012,Physical Defensive Build-Up,0,0.9166666666666666,1,Physical Defensive Build-Up,0.0,0.0,True,False
+8560,Real Sociedad,2011/2012,High-Pressure Wide Play,1,1.1891891891891893,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8560,Real Sociedad,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.7027027027027026,2,High-Pressure Wide Play,1.0,1.0,True,True
+8560,Real Sociedad,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.5675675675675675,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+8560,Real Sociedad,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.2432432432432432,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+8560,Real Sociedad,2015/2016,High-Pressure Wide Play,1,1.263157894736842,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,True
+8564,Milan,2011/2012,Elite All-Round Profile,4,2.081081081081081,1,Elite All-Round Profile,4.0,0.0,True,False
+8564,Milan,2012/2013,Elite All-Round Profile,4,1.894736842105263,2,Elite All-Round Profile,4.0,1.0,True,False
+8564,Milan,2013/2014,Elite All-Round Profile,4,1.5405405405405406,3,Elite All-Round Profile,4.0,2.0,True,False
+8564,Milan,2014/2015,Elite All-Round Profile,4,1.3783783783783785,4,Elite All-Round Profile,4.0,3.0,True,False
+8564,Milan,2015/2016,Elite All-Round Profile,4,1.5,5,Elite All-Round Profile,4.0,4.0,True,False
+8571,KV Kortrijk,2011/2012,Lower-Strength Profile,3,1.5,1,High-Pressure Wide Play,1.0,0.0,True,True
+8571,KV Kortrijk,2012/2013,Lower-Strength Profile,3,1.2857142857142858,2,Lower-Strength Profile,3.0,1.0,True,False
+8571,KV Kortrijk,2015/2016,Lower-Strength Profile,3,1.2413793103448276,5,Lower-Strength Profile,3.0,4.0,True,False
+8576,AC Ajaccio,2012/2013,Lower-Strength Profile,3,1.105263157894737,2,Lower-Strength Profile,3.0,1.0,True,False
+8576,AC Ajaccio,2013/2014,Lower-Strength Profile,3,0.6052631578947368,3,Lower-Strength Profile,3.0,2.0,True,False
+8581,Levante UD,2011/2012,Physical Defensive Build-Up,0,1.4054054054054057,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8581,Levante UD,2012/2013,Physical Defensive Build-Up,0,1.2105263157894737,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8581,Levante UD,2013/2014,Physical Defensive Build-Up,0,1.263157894736842,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8581,Levante UD,2014/2015,Physical Defensive Build-Up,0,0.9736842105263158,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8581,Levante UD,2015/2016,Physical Defensive Build-Up,0,0.8378378378378378,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8583,AJ Auxerre,2011/2012,Physical Defensive Build-Up,0,0.8378378378378378,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8586,Tottenham Hotspur,2011/2012,Elite All-Round Profile,4,1.8157894736842104,1,Elite All-Round Profile,4.0,0.0,True,False
+8586,Tottenham Hotspur,2012/2013,Elite All-Round Profile,4,1.864864864864865,2,Elite All-Round Profile,4.0,1.0,True,False
+8586,Tottenham Hotspur,2013/2014,Elite All-Round Profile,4,1.75,3,Elite All-Round Profile,4.0,2.0,True,False
+8586,Tottenham Hotspur,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.6842105263157894,4,Elite All-Round Profile,4.0,3.0,True,True
+8586,Tottenham Hotspur,2015/2016,Elite All-Round Profile,4,1.8421052631578947,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,True
+8592,Olympique de Marseille,2011/2012,Elite All-Round Profile,4,1.263157894736842,1,Elite All-Round Profile,4.0,0.0,True,False
+8592,Olympique de Marseille,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.837837837837838,2,Elite All-Round Profile,4.0,1.0,True,True
+8592,Olympique de Marseille,2013/2014,Elite All-Round Profile,4,1.5405405405405406,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,True
+8592,Olympique de Marseille,2014/2015,Elite All-Round Profile,4,1.8157894736842104,4,Elite All-Round Profile,4.0,3.0,True,False
+8592,Olympique de Marseille,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.263157894736842,5,Elite All-Round Profile,4.0,4.0,True,True
+8593,Ajax,2011/2012,High-Pressure Wide Play,1,2.235294117647059,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8593,Ajax,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,2.1875,2,High-Pressure Wide Play,1.0,1.0,True,True
+8593,Ajax,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,2.0,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+8593,Ajax,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,2.125,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+8593,Ajax,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,2.411764705882353,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+8597,Kilmarnock,2011/2012,Lower-Strength Profile,3,1.2285714285714286,1,High-Pressure Wide Play,1.0,0.0,True,True
+8597,Kilmarnock,2012/2013,Lower-Strength Profile,3,1.064516129032258,2,Lower-Strength Profile,3.0,1.0,True,False
+8597,Kilmarnock,2013/2014,Lower-Strength Profile,3,1.0,3,Lower-Strength Profile,3.0,2.0,True,False
+8597,Kilmarnock,2014/2015,Lower-Strength Profile,3,1.0789473684210529,4,Lower-Strength Profile,3.0,3.0,True,False
+8597,Kilmarnock,2015/2016,Lower-Strength Profile,3,0.9473684210526316,5,Lower-Strength Profile,3.0,4.0,True,False
+8600,Udinese,2011/2012,Physical Defensive Build-Up,0,1.75,1,Physical Defensive Build-Up,0.0,0.0,True,False
+8600,Udinese,2012/2013,Physical Defensive Build-Up,0,1.736842105263158,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8600,Udinese,2013/2014,Physical Defensive Build-Up,0,1.1578947368421053,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8600,Udinese,2014/2015,Physical Defensive Build-Up,0,1.027027027027027,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8600,Udinese,2015/2016,Physical Defensive Build-Up,0,1.0263157894736843,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8602,Wolverhampton Wanderers,2011/2012,Physical Defensive Build-Up,0,0.6756756756756757,1,High-Pressure Wide Play,1.0,0.0,True,True
+8603,Real Betis Balompié,2012/2013,High-Pressure Wide Play,1,1.4736842105263157,2,High-Pressure Wide Play,1.0,1.0,True,False
+8603,Real Betis Balompié,2013/2014,High-Pressure Wide Play,1,0.6578947368421053,3,High-Pressure Wide Play,1.0,2.0,True,False
+8611,FC Twente,2011/2012,High-Pressure Wide Play,1,1.7647058823529411,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8611,FC Twente,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.875,2,High-Pressure Wide Play,1.0,1.0,True,True
+8611,FC Twente,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.8,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+8611,FC Twente,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.3,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+8611,FC Twente,2015/2016,Lower-Strength Profile,3,1.2647058823529411,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,True
+8633,Real Madrid CF,2011/2012,Elite All-Round Profile,4,2.6216216216216215,1,Elite All-Round Profile,4.0,0.0,True,False
+8633,Real Madrid CF,2012/2013,Elite All-Round Profile,4,2.236842105263158,2,Elite All-Round Profile,4.0,1.0,True,False
+8633,Real Madrid CF,2013/2014,Elite All-Round Profile,4,2.289473684210526,3,Elite All-Round Profile,4.0,2.0,True,False
+8633,Real Madrid CF,2014/2015,Elite All-Round Profile,4,2.4054054054054053,4,Elite All-Round Profile,4.0,3.0,True,False
+8633,Real Madrid CF,2015/2016,Elite All-Round Profile,4,2.3684210526315788,5,Elite All-Round Profile,4.0,4.0,True,False
+8634,FC Barcelona,2011/2012,Elite All-Round Profile,4,2.3947368421052633,1,Elite All-Round Profile,4.0,0.0,True,False
+8634,FC Barcelona,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,2.6315789473684212,2,Elite All-Round Profile,4.0,1.0,True,True
+8634,FC Barcelona,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,2.289473684210526,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+8634,FC Barcelona,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,2.473684210526316,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+8634,FC Barcelona,2015/2016,Elite All-Round Profile,4,2.3947368421052633,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,True
+8635,RSC Anderlecht,2011/2012,High-Pressure Wide Play,1,2.4615384615384617,1,High-Pressure Wide Play,1.0,0.0,True,False
+8635,RSC Anderlecht,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,2.1785714285714284,2,High-Pressure Wide Play,1.0,1.0,True,True
+8635,RSC Anderlecht,2015/2016,Elite All-Round Profile,4,1.8333333333333333,5,High-Pressure Wide Play,1.0,4.0,True,True
+8636,Inter,2011/2012,Elite All-Round Profile,4,1.5833333333333333,1,Elite All-Round Profile,4.0,0.0,True,False
+8636,Inter,2012/2013,Physical Defensive Build-Up,0,1.3783783783783785,2,Elite All-Round Profile,4.0,1.0,True,True
+8636,Inter,2013/2014,Physical Defensive Build-Up,0,1.5405405405405406,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8636,Inter,2014/2015,Physical Defensive Build-Up,0,1.4473684210526316,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8636,Inter,2015/2016,Elite All-Round Profile,4,1.7297297297297298,5,Physical Defensive Build-Up,0.0,4.0,True,True
+8639,LOSC Lille,2011/2012,Elite All-Round Profile,4,1.9473684210526316,1,Elite All-Round Profile,4.0,0.0,True,False
+8639,LOSC Lille,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.648648648648649,2,Elite All-Round Profile,4.0,1.0,True,True
+8639,LOSC Lille,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.868421052631579,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+8639,LOSC Lille,2014/2015,Physical Defensive Build-Up,0,1.4864864864864864,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,True
+8639,LOSC Lille,2015/2016,Physical Defensive Build-Up,0,1.5405405405405406,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8640,PSV,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,2.0294117647058822,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,False
+8640,PSV,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,2.0625,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+8640,PSV,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.6333333333333333,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+8640,PSV,2014/2015,Elite All-Round Profile,4,2.5625,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,True
+8640,PSV,2015/2016,Physical Defensive Build-Up,0,2.4705882352941178,5,Elite All-Round Profile,4.0,4.0,True,True
+8649,Ross County FC,2014/2015,Lower-Strength Profile,3,1.1891891891891893,4,Lower-Strength Profile,3.0,3.0,True,False
+8649,Ross County FC,2015/2016,Lower-Strength Profile,3,1.263157894736842,5,Lower-Strength Profile,3.0,4.0,True,False
+8650,Liverpool,2011/2012,Elite All-Round Profile,4,1.368421052631579,1,Elite All-Round Profile,4.0,0.0,True,False
+8650,Liverpool,2012/2013,Elite All-Round Profile,4,1.605263157894737,2,Elite All-Round Profile,4.0,1.0,True,False
+8650,Liverpool,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,2.210526315789474,3,Elite All-Round Profile,4.0,2.0,True,True
+8650,Liverpool,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.631578947368421,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+8650,Liverpool,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.5405405405405406,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+8654,West Ham United,2013/2014,Physical Defensive Build-Up,0,1.0,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8654,West Ham United,2014/2015,Physical Defensive Build-Up,0,1.236842105263158,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8654,West Ham United,2015/2016,Physical Defensive Build-Up,0,1.6756756756756757,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8655,Blackburn Rovers,2011/2012,Physical Defensive Build-Up,0,0.8157894736842105,1,Physical Defensive Build-Up,0.0,0.0,True,False
+8659,West Bromwich Albion,2011/2012,Physical Defensive Build-Up,0,1.2222222222222223,1,High-Pressure Wide Play,1.0,0.0,True,True
+8659,West Bromwich Albion,2012/2013,Physical Defensive Build-Up,0,1.2432432432432432,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8659,West Bromwich Albion,2013/2014,Physical Defensive Build-Up,0,0.9473684210526316,3,Physical Defensive Build-Up,0.0,2.0,True,False
+8659,West Bromwich Albion,2014/2015,Physical Defensive Build-Up,0,1.1578947368421053,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8659,West Bromwich Albion,2015/2016,Physical Defensive Build-Up,0,1.135135135135135,5,Physical Defensive Build-Up,0.0,4.0,True,False
+8661,RCD Mallorca,2011/2012,High-Pressure Wide Play,1,1.368421052631579,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8661,RCD Mallorca,2012/2013,High-Pressure Wide Play,1,0.9473684210526316,2,High-Pressure Wide Play,1.0,1.0,True,False
+8667,Hull City,2014/2015,Physical Defensive Build-Up,0,0.9210526315789472,4,Physical Defensive Build-Up,0.0,3.0,True,False
+8668,Everton,2011/2012,Elite All-Round Profile,4,1.5135135135135136,1,Physical Defensive Build-Up,0.0,0.0,True,True
+8668,Everton,2012/2013,Elite All-Round Profile,4,1.6578947368421053,2,Elite All-Round Profile,4.0,1.0,True,False
+8668,Everton,2013/2014,Physical Defensive Build-Up,0,1.9189189189189189,3,Elite All-Round Profile,4.0,2.0,True,True
+8668,Everton,2014/2015,Elite All-Round Profile,4,1.2432432432432432,4,Physical Defensive Build-Up,0.0,3.0,True,True
+8668,Everton,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.2432432432432432,5,Elite All-Round Profile,4.0,4.0,True,True
+8673,Legia Warszawa,2013/2014,High-Pressure Wide Play,1,2.111111111111111,3,High-Pressure Wide Play,1.0,2.0,True,False
+8673,Legia Warszawa,2014/2015,High-Pressure Wide Play,1,1.8928571428571428,4,High-Pressure Wide Play,1.0,3.0,True,False
+8673,Legia Warszawa,2015/2016,High-Pressure Wide Play,1,2.074074074074074,5,High-Pressure Wide Play,1.0,4.0,True,False
+8674,FC Groningen,2011/2012,Lower-Strength Profile,3,1.088235294117647,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+8674,FC Groningen,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.15625,2,Lower-Strength Profile,3.0,1.0,True,True
+8674,FC Groningen,2013/2014,High-Pressure Wide Play,1,1.5333333333333334,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,True
+8674,FC Groningen,2014/2015,High-Pressure Wide Play,1,1.3,4,High-Pressure Wide Play,1.0,3.0,True,False
+8674,FC Groningen,2015/2016,High-Pressure Wide Play,1,1.4705882352941178,5,High-Pressure Wide Play,1.0,4.0,True,False
+8686,Roma,2011/2012,Elite All-Round Profile,4,1.5135135135135136,1,Elite All-Round Profile,4.0,0.0,True,False
+8686,Roma,2012/2013,Physical Defensive Build-Up,0,1.631578947368421,2,Elite All-Round Profile,4.0,1.0,True,True
+8686,Roma,2013/2014,Elite All-Round Profile,4,2.216216216216216,3,Physical Defensive Build-Up,0.0,2.0,True,True
+8686,Roma,2014/2015,Elite All-Round Profile,4,1.8108108108108107,4,Elite All-Round Profile,4.0,3.0,True,False
+8686,Roma,2015/2016,Elite All-Round Profile,4,2.081081081081081,5,Elite All-Round Profile,4.0,4.0,True,False
+8689,FC Lorient,2011/2012,High-Pressure Wide Play,1,1.054054054054054,1,High-Pressure Wide Play,1.0,0.0,True,False
+8689,FC Lorient,2012/2013,Lower-Strength Profile,3,1.4054054054054057,2,High-Pressure Wide Play,1.0,1.0,True,True
+8689,FC Lorient,2013/2014,Lower-Strength Profile,3,1.3243243243243243,3,Lower-Strength Profile,3.0,2.0,True,False
+8689,FC Lorient,2014/2015,Lower-Strength Profile,3,1.131578947368421,4,Lower-Strength Profile,3.0,3.0,True,False
+8689,FC Lorient,2015/2016,High-Pressure Wide Play,1,1.162162162162162,5,Lower-Strength Profile,3.0,4.0,True,True
+8696,Racing Santander,2011/2012,High-Pressure Wide Play,1,0.7105263157894737,1,High-Pressure Wide Play,1.0,0.0,True,False
+8697,SV Werder Bremen,2011/2012,High-Pressure Wide Play,1,1.2352941176470589,1,Elite All-Round Profile,4.0,0.0,True,True
+8697,SV Werder Bremen,2012/2013,High-Pressure Wide Play,1,1.0,2,High-Pressure Wide Play,1.0,1.0,True,False
+8697,SV Werder Bremen,2013/2014,Elite All-Round Profile,4,1.0909090909090908,3,High-Pressure Wide Play,1.0,2.0,True,True
+8697,SV Werder Bremen,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.2647058823529411,4,Elite All-Round Profile,4.0,3.0,True,True
+8697,SV Werder Bremen,2015/2016,High-Pressure Wide Play,1,1.1515151515151516,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,True
+8721,VfL Wolfsburg,2011/2012,Physical Defensive Build-Up,0,1.2941176470588236,1,Elite All-Round Profile,4.0,0.0,True,True
+8721,VfL Wolfsburg,2012/2013,Physical Defensive Build-Up,0,1.2727272727272727,2,Physical Defensive Build-Up,0.0,1.0,True,False
+8721,VfL Wolfsburg,2013/2014,Elite All-Round Profile,4,1.7647058823529411,3,Physical Defensive Build-Up,0.0,2.0,True,True
+8721,VfL Wolfsburg,2014/2015,Elite All-Round Profile,4,2.0294117647058822,4,Elite All-Round Profile,4.0,3.0,True,False
+8721,VfL Wolfsburg,2015/2016,Elite All-Round Profile,4,1.3333333333333333,5,Elite All-Round Profile,4.0,4.0,True,False
+8722,1. FC Köln,2011/2012,Physical Defensive Build-Up,0,0.8823529411764706,1,High-Pressure Wide Play,1.0,0.0,True,True
+8722,1. FC Köln,2015/2016,Physical Defensive Build-Up,0,1.2647058823529411,5,High-Pressure Wide Play,1.0,4.0,True,True
+9747,En Avant de Guingamp,2014/2015,Physical Defensive Build-Up,0,1.2894736842105263,4,Lower-Strength Profile,3.0,3.0,True,True
+9747,En Avant de Guingamp,2015/2016,Physical Defensive Build-Up,0,1.1578947368421053,5,Physical Defensive Build-Up,0.0,4.0,True,False
+9748,Olympique Lyonnais,2011/2012,Elite All-Round Profile,4,1.6666666666666667,1,Elite All-Round Profile,4.0,0.0,True,False
+9748,Olympique Lyonnais,2012/2013,Elite All-Round Profile,4,1.7297297297297298,2,Elite All-Round Profile,4.0,1.0,True,False
+9748,Olympique Lyonnais,2013/2014,Elite All-Round Profile,4,1.605263157894737,3,Elite All-Round Profile,4.0,2.0,True,False
+9748,Olympique Lyonnais,2014/2015,Elite All-Round Profile,4,2.027027027027027,4,Elite All-Round Profile,4.0,3.0,True,False
+9748,Olympique Lyonnais,2015/2016,Elite All-Round Profile,4,1.7105263157894737,5,Elite All-Round Profile,4.0,4.0,True,False
+9761,NAC Breda,2011/2012,Lower-Strength Profile,3,1.1176470588235294,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+9761,NAC Breda,2012/2013,Lower-Strength Profile,3,1.09375,2,Lower-Strength Profile,3.0,1.0,True,False
+9761,NAC Breda,2013/2014,Lower-Strength Profile,3,0.9333333333333332,3,Lower-Strength Profile,3.0,2.0,True,False
+9761,NAC Breda,2014/2015,Lower-Strength Profile,3,0.75,4,Lower-Strength Profile,3.0,3.0,True,False
+9764,Gil Vicente FC,2013/2014,Lower-Strength Profile,3,1.1071428571428572,3,Lower-Strength Profile,3.0,2.0,True,False
+9764,Gil Vicente FC,2014/2015,Lower-Strength Profile,3,0.6333333333333333,4,Lower-Strength Profile,3.0,3.0,True,False
+9768,Sporting CP,2011/2012,Elite All-Round Profile,4,1.851851851851852,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+9768,Sporting CP,2012/2013,Elite All-Round Profile,4,1.4230769230769231,2,Elite All-Round Profile,4.0,1.0,True,False
+9768,Sporting CP,2013/2014,Elite All-Round Profile,4,2.1785714285714284,3,Elite All-Round Profile,4.0,2.0,True,False
+9768,Sporting CP,2014/2015,High-Pressure Wide Play,1,2.103448275862069,4,Elite All-Round Profile,4.0,3.0,True,True
+9768,Sporting CP,2015/2016,Elite All-Round Profile,4,2.6333333333333333,5,High-Pressure Wide Play,1.0,4.0,True,True
+9771,"União de Leiria, SAD",2011/2012,Lower-Strength Profile,3,0.7037037037037037,1,Lower-Strength Profile,3.0,0.0,True,False
+9772,SL Benfica,2011/2012,Elite All-Round Profile,4,2.269230769230769,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+9772,SL Benfica,2012/2013,Elite All-Round Profile,4,2.576923076923077,2,Elite All-Round Profile,4.0,1.0,True,False
+9772,SL Benfica,2013/2014,Elite All-Round Profile,4,2.5,3,Elite All-Round Profile,4.0,2.0,True,False
+9772,SL Benfica,2014/2015,Elite All-Round Profile,4,2.433333333333333,4,Elite All-Round Profile,4.0,3.0,True,False
+9772,SL Benfica,2015/2016,Elite All-Round Profile,4,2.6,5,Elite All-Round Profile,4.0,4.0,True,False
+9773,FC Porto,2011/2012,Elite All-Round Profile,4,2.6153846153846154,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+9773,FC Porto,2012/2013,Elite All-Round Profile,4,2.5384615384615383,2,Elite All-Round Profile,4.0,1.0,True,False
+9773,FC Porto,2013/2014,Elite All-Round Profile,4,1.9642857142857144,3,Elite All-Round Profile,4.0,2.0,True,False
+9773,FC Porto,2014/2015,Elite All-Round Profile,4,2.4,4,Elite All-Round Profile,4.0,3.0,True,False
+9773,FC Porto,2015/2016,Elite All-Round Profile,4,2.1333333333333333,5,Elite All-Round Profile,4.0,4.0,True,False
+9777,Servette FC,2012/2013,Lower-Strength Profile,3,0.7222222222222222,2,Lower-Strength Profile,3.0,1.0,True,False
+9783,RC Deportivo de La Coruña,2015/2016,Physical Defensive Build-Up,0,1.105263157894737,5,High-Pressure Wide Play,1.0,4.0,True,True
+9788,Borussia Mönchengladbach,2011/2012,Physical Defensive Build-Up,0,1.7647058823529411,1,High-Pressure Wide Play,1.0,0.0,True,True
+9788,Borussia Mönchengladbach,2012/2013,Physical Defensive Build-Up,0,1.393939393939394,2,Physical Defensive Build-Up,0.0,1.0,True,False
+9788,Borussia Mönchengladbach,2013/2014,Physical Defensive Build-Up,0,1.6176470588235294,3,Physical Defensive Build-Up,0.0,2.0,True,False
+9788,Borussia Mönchengladbach,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.9411764705882353,4,Physical Defensive Build-Up,0.0,3.0,True,True
+9788,Borussia Mönchengladbach,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.6176470588235294,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+9789,Borussia Dortmund,2011/2012,Elite All-Round Profile,4,2.3823529411764706,1,Elite All-Round Profile,4.0,0.0,True,False
+9789,Borussia Dortmund,2012/2013,Elite All-Round Profile,4,1.9411764705882353,2,Elite All-Round Profile,4.0,1.0,True,False
+9789,Borussia Dortmund,2013/2014,Elite All-Round Profile,4,2.060606060606061,3,Elite All-Round Profile,4.0,2.0,True,False
+9789,Borussia Dortmund,2014/2015,Elite All-Round Profile,4,1.3529411764705883,4,Elite All-Round Profile,4.0,3.0,True,False
+9789,Borussia Dortmund,2015/2016,Elite All-Round Profile,4,2.272727272727273,5,Elite All-Round Profile,4.0,4.0,True,False
+9790,Hamburger SV,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.0588235294117647,1,Elite All-Round Profile,4.0,0.0,True,True
+9790,Hamburger SV,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.411764705882353,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+9790,Hamburger SV,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,0.7272727272727273,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+9790,Hamburger SV,2014/2015,Physical Defensive Build-Up,0,1.0606060606060606,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,True
+9790,Hamburger SV,2015/2016,Physical Defensive Build-Up,0,1.2058823529411764,5,Physical Defensive Build-Up,0.0,4.0,True,False
+9791,Heracles Almelo,2011/2012,Lower-Strength Profile,3,1.1764705882352942,1,Lower-Strength Profile,3.0,0.0,True,False
+9791,Heracles Almelo,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.0625,2,Lower-Strength Profile,3.0,1.0,True,True
+9791,Heracles Almelo,2013/2014,Lower-Strength Profile,3,1.206896551724138,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,True
+9791,Heracles Almelo,2014/2015,Lower-Strength Profile,3,1.064516129032258,4,Lower-Strength Profile,3.0,3.0,True,False
+9791,Heracles Almelo,2015/2016,High-Pressure Wide Play,1,1.5,5,Lower-Strength Profile,3.0,4.0,True,True
+9800,St. Mirren,2011/2012,Lower-Strength Profile,3,1.0833333333333333,1,High-Pressure Wide Play,1.0,0.0,True,True
+9800,St. Mirren,2012/2013,Lower-Strength Profile,3,1.0,2,Lower-Strength Profile,3.0,1.0,True,False
+9800,St. Mirren,2013/2014,Lower-Strength Profile,3,1.0303030303030305,3,Lower-Strength Profile,3.0,2.0,True,False
+9800,St. Mirren,2014/2015,Lower-Strength Profile,3,0.7894736842105263,4,Lower-Strength Profile,3.0,3.0,True,False
+9803,Roda JC Kerkrade,2011/2012,Lower-Strength Profile,3,1.2941176470588236,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+9803,Roda JC Kerkrade,2012/2013,Lower-Strength Profile,3,1.0,2,Lower-Strength Profile,3.0,1.0,True,False
+9803,Roda JC Kerkrade,2013/2014,Lower-Strength Profile,3,0.7666666666666667,3,Lower-Strength Profile,3.0,2.0,True,False
+9804,Torino,2013/2014,Physical Defensive Build-Up,0,1.4722222222222223,3,Physical Defensive Build-Up,0.0,2.0,True,False
+9804,Torino,2014/2015,Physical Defensive Build-Up,0,1.4210526315789471,4,Physical Defensive Build-Up,0.0,3.0,True,False
+9804,Torino,2015/2016,Physical Defensive Build-Up,0,1.135135135135135,5,Physical Defensive Build-Up,0.0,4.0,True,False
+9807,CF Os Belenenses,2014/2015,Lower-Strength Profile,3,1.3666666666666667,4,Lower-Strength Profile,3.0,3.0,True,False
+9807,CF Os Belenenses,2015/2016,Lower-Strength Profile,3,1.1,5,Lower-Strength Profile,3.0,4.0,True,False
+9810,Eintracht Frankfurt,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.0,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+9810,Eintracht Frankfurt,2014/2015,High-Pressure Wide Play,1,1.2647058823529411,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,True
+9810,Eintracht Frankfurt,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.0588235294117647,5,High-Pressure Wide Play,1.0,4.0,True,True
+9823,FC Bayern Munich,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,2.1470588235294117,1,Elite All-Round Profile,4.0,0.0,True,True
+9823,FC Bayern Munich,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,2.6666666666666665,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+9823,FC Bayern Munich,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,2.6470588235294117,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+9823,FC Bayern Munich,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,2.303030303030303,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+9823,FC Bayern Munich,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,2.5757575757575757,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+9825,Arsenal,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.8108108108108107,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,False
+9825,Arsenal,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.891891891891892,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+9825,Arsenal,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,2.0789473684210527,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+9825,Arsenal,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,2.0,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+9825,Arsenal,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.868421052631579,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+9826,Crystal Palace,2014/2015,Physical Defensive Build-Up,0,1.263157894736842,4,Physical Defensive Build-Up,0.0,3.0,True,False
+9826,Crystal Palace,2015/2016,Physical Defensive Build-Up,0,1.105263157894737,5,Physical Defensive Build-Up,0.0,4.0,True,False
+9827,Girondins de Bordeaux,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.6216216216216215,1,Elite All-Round Profile,4.0,0.0,True,True
+9827,Girondins de Bordeaux,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.4473684210526316,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+9827,Girondins de Bordeaux,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.394736842105263,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+9827,Girondins de Bordeaux,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.6578947368421053,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+9827,Girondins de Bordeaux,2015/2016,High-Pressure Wide Play,1,1.3157894736842106,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,True
+9829,AS Monaco,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.868421052631579,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+9829,AS Monaco,2015/2016,Physical Defensive Build-Up,0,1.6756756756756757,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,True
+9830,FC Nantes,2014/2015,High-Pressure Wide Play,1,1.1891891891891893,4,Physical Defensive Build-Up,0.0,3.0,True,True
+9830,FC Nantes,2015/2016,Physical Defensive Build-Up,0,1.2702702702702702,5,High-Pressure Wide Play,1.0,4.0,True,True
+9831,OGC Nice,2011/2012,Physical Defensive Build-Up,0,1.135135135135135,1,High-Pressure Wide Play,1.0,0.0,True,True
+9831,OGC Nice,2012/2013,Physical Defensive Build-Up,0,1.6842105263157894,2,Physical Defensive Build-Up,0.0,1.0,True,False
+9831,OGC Nice,2013/2014,High-Pressure Wide Play,1,1.105263157894737,3,Physical Defensive Build-Up,0.0,2.0,True,True
+9831,OGC Nice,2014/2015,High-Pressure Wide Play,1,1.2162162162162162,4,High-Pressure Wide Play,1.0,3.0,True,False
+9831,OGC Nice,2015/2016,High-Pressure Wide Play,1,1.6756756756756757,5,High-Pressure Wide Play,1.0,4.0,True,False
+9837,Stade de Reims,2013/2014,Physical Defensive Build-Up,0,1.263157894736842,3,Lower-Strength Profile,3.0,2.0,True,True
+9837,Stade de Reims,2014/2015,Physical Defensive Build-Up,0,1.1578947368421053,4,Physical Defensive Build-Up,0.0,3.0,True,False
+9837,Stade de Reims,2015/2016,Physical Defensive Build-Up,0,1.0263157894736843,5,Physical Defensive Build-Up,0.0,4.0,True,False
+9839,VVV-Venlo,2011/2012,Lower-Strength Profile,3,0.9117647058823528,1,Lower-Strength Profile,3.0,0.0,True,False
+9839,VVV-Venlo,2012/2013,Lower-Strength Profile,3,0.84375,2,Lower-Strength Profile,3.0,1.0,True,False
+9847,Paris Saint-Germain,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,2.0789473684210527,1,High-Pressure Wide Play,1.0,0.0,True,True
+9847,Paris Saint-Germain,2012/2013,Elite All-Round Profile,4,2.1842105263157894,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,True
+9847,Paris Saint-Germain,2013/2014,Elite All-Round Profile,4,2.324324324324324,3,Elite All-Round Profile,4.0,2.0,True,False
+9847,Paris Saint-Germain,2014/2015,Elite All-Round Profile,4,2.1842105263157894,4,Elite All-Round Profile,4.0,3.0,True,False
+9847,Paris Saint-Germain,2015/2016,Elite All-Round Profile,4,2.5135135135135136,5,Elite All-Round Profile,4.0,4.0,True,False
+9850,Norwich City,2012/2013,Physical Defensive Build-Up,0,1.1578947368421053,2,Lower-Strength Profile,3.0,1.0,True,True
+9850,Norwich City,2013/2014,Physical Defensive Build-Up,0,0.868421052631579,3,Physical Defensive Build-Up,0.0,2.0,True,False
+9851,Stade Rennais FC,2011/2012,High-Pressure Wide Play,1,1.5405405405405406,1,High-Pressure Wide Play,1.0,0.0,True,False
+9851,Stade Rennais FC,2012/2013,Physical Defensive Build-Up,0,1.162162162162162,2,High-Pressure Wide Play,1.0,1.0,True,True
+9851,Stade Rennais FC,2013/2014,Physical Defensive Build-Up,0,1.2105263157894737,3,Physical Defensive Build-Up,0.0,2.0,True,False
+9851,Stade Rennais FC,2014/2015,Physical Defensive Build-Up,0,1.3157894736842106,4,Physical Defensive Build-Up,0.0,3.0,True,False
+9851,Stade Rennais FC,2015/2016,Physical Defensive Build-Up,0,1.368421052631579,5,Physical Defensive Build-Up,0.0,4.0,True,False
+9853,AS Saint-Étienne,2011/2012,High-Pressure Wide Play,1,1.5,1,Physical Defensive Build-Up,0.0,0.0,True,True
+9853,AS Saint-Étienne,2012/2013,Physical Defensive Build-Up,0,1.6216216216216215,2,High-Pressure Wide Play,1.0,1.0,True,True
+9853,AS Saint-Étienne,2013/2014,Physical Defensive Build-Up,0,1.7837837837837838,3,Physical Defensive Build-Up,0.0,2.0,True,False
+9853,AS Saint-Étienne,2014/2015,Physical Defensive Build-Up,0,1.8157894736842104,4,Physical Defensive Build-Up,0.0,3.0,True,False
+9853,AS Saint-Étienne,2015/2016,Physical Defensive Build-Up,0,1.5263157894736843,5,Physical Defensive Build-Up,0.0,4.0,True,False
+9857,Bologna,2011/2012,Physical Defensive Build-Up,0,1.2571428571428571,1,Physical Defensive Build-Up,0.0,0.0,True,False
+9857,Bologna,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.162162162162162,2,Physical Defensive Build-Up,0.0,1.0,True,True
+9857,Bologna,2013/2014,Physical Defensive Build-Up,0,0.7631578947368421,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,True
+9860,Heart of Midlothian,2011/2012,High-Pressure Wide Play,1,1.2777777777777777,1,High-Pressure Wide Play,1.0,0.0,True,False
+9860,Heart of Midlothian,2012/2013,High-Pressure Wide Play,1,1.1612903225806452,2,High-Pressure Wide Play,1.0,1.0,True,False
+9860,Heart of Midlothian,2013/2014,High-Pressure Wide Play,1,1.0,3,High-Pressure Wide Play,1.0,2.0,True,False
+9864,Málaga CF,2011/2012,Elite All-Round Profile,4,1.4864864864864864,1,High-Pressure Wide Play,1.0,0.0,True,True
+9864,Málaga CF,2012/2013,Elite All-Round Profile,4,1.4594594594594594,2,Elite All-Round Profile,4.0,1.0,True,False
+9864,Málaga CF,2013/2014,Elite All-Round Profile,4,1.1842105263157894,3,Elite All-Round Profile,4.0,2.0,True,False
+9864,Málaga CF,2014/2015,High-Pressure Wide Play,1,1.3157894736842106,4,Elite All-Round Profile,4.0,3.0,True,True
+9864,Málaga CF,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.263157894736842,5,High-Pressure Wide Play,1.0,4.0,True,True
+9865,UD Almería,2014/2015,Physical Defensive Build-Up,0,0.8378378378378378,4,Physical Defensive Build-Up,0.0,3.0,True,False
+9869,Real Sporting de Gijón,2011/2012,High-Pressure Wide Play,1,0.9736842105263158,1,Elite All-Round Profile,4.0,0.0,True,True
+9873,Valenciennes FC,2011/2012,High-Pressure Wide Play,1,1.162162162162162,1,Physical Defensive Build-Up,0.0,0.0,True,True
+9873,Valenciennes FC,2012/2013,High-Pressure Wide Play,1,1.2162162162162162,2,High-Pressure Wide Play,1.0,1.0,True,False
+9873,Valenciennes FC,2013/2014,High-Pressure Wide Play,1,0.7631578947368421,3,High-Pressure Wide Play,1.0,2.0,True,False
+9874,FC Sochaux-Montbéliard,2011/2012,High-Pressure Wide Play,1,1.105263157894737,1,Lower-Strength Profile,3.0,0.0,True,True
+9874,FC Sochaux-Montbéliard,2012/2013,High-Pressure Wide Play,1,1.1388888888888888,2,High-Pressure Wide Play,1.0,1.0,True,False
+9874,FC Sochaux-Montbéliard,2013/2014,High-Pressure Wide Play,1,1.0526315789473684,3,High-Pressure Wide Play,1.0,2.0,True,False
+9875,Napoli,2011/2012,Elite All-Round Profile,4,1.6666666666666667,1,Elite All-Round Profile,4.0,0.0,True,False
+9875,Napoli,2012/2013,Elite All-Round Profile,4,2.0526315789473686,2,Elite All-Round Profile,4.0,1.0,True,False
+9875,Napoli,2013/2014,Elite All-Round Profile,4,2.081081081081081,3,Elite All-Round Profile,4.0,2.0,True,False
+9875,Napoli,2014/2015,Elite All-Round Profile,4,1.7027027027027026,4,Elite All-Round Profile,4.0,3.0,True,False
+9875,Napoli,2015/2016,Elite All-Round Profile,4,2.189189189189189,5,Elite All-Round Profile,4.0,4.0,True,False
+9876,Hellas Verona,2014/2015,Physical Defensive Build-Up,0,1.2105263157894737,4,High-Pressure Wide Play,1.0,3.0,True,True
+9876,Hellas Verona,2015/2016,Physical Defensive Build-Up,0,0.7368421052631579,5,Physical Defensive Build-Up,0.0,4.0,True,False
+9879,Fulham,2011/2012,Physical Defensive Build-Up,0,1.368421052631579,1,Physical Defensive Build-Up,0.0,0.0,True,False
+9879,Fulham,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.131578947368421,2,Physical Defensive Build-Up,0.0,1.0,True,True
+9879,Fulham,2013/2014,Physical Defensive Build-Up,0,0.8421052631578947,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,True
+9880,Cesena,2011/2012,Physical Defensive Build-Up,0,0.5882352941176471,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+9882,Sampdoria,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.1842105263157894,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+9882,Sampdoria,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.4736842105263157,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+9882,Sampdoria,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.0,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+9885,Juventus,2011/2012,Elite All-Round Profile,4,2.257142857142857,1,Elite All-Round Profile,4.0,0.0,True,False
+9885,Juventus,2012/2013,Elite All-Round Profile,4,2.289473684210526,2,Elite All-Round Profile,4.0,1.0,True,False
+9885,Juventus,2013/2014,Elite All-Round Profile,4,2.675675675675676,3,Elite All-Round Profile,4.0,2.0,True,False
+9885,Juventus,2014/2015,Elite All-Round Profile,4,2.289473684210526,4,Elite All-Round Profile,4.0,3.0,True,False
+9885,Juventus,2015/2016,Elite All-Round Profile,4,2.4324324324324325,5,Elite All-Round Profile,4.0,4.0,True,False
+9888,Lecce,2011/2012,Physical Defensive Build-Up,0,0.9714285714285714,1,High-Pressure Wide Play,1.0,0.0,True,True
+9904,Hannover 96,2011/2012,Physical Defensive Build-Up,0,1.411764705882353,1,High-Pressure Wide Play,1.0,0.0,True,True
+9904,Hannover 96,2012/2013,Physical Defensive Build-Up,0,1.3235294117647058,2,Physical Defensive Build-Up,0.0,1.0,True,False
+9904,Hannover 96,2013/2014,Physical Defensive Build-Up,0,1.2352941176470589,3,Physical Defensive Build-Up,0.0,2.0,True,False
+9904,Hannover 96,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.121212121212121,4,Physical Defensive Build-Up,0.0,3.0,True,True
+9904,Hannover 96,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,0.7272727272727273,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+9905,1. FSV Mainz 05,2011/2012,High-Pressure Wide Play,1,1.1470588235294117,1,High-Pressure Wide Play,1.0,0.0,True,False
+9905,1. FSV Mainz 05,2012/2013,High-Pressure Wide Play,1,1.2727272727272727,2,High-Pressure Wide Play,1.0,1.0,True,False
+9905,1. FSV Mainz 05,2013/2014,Physical Defensive Build-Up,0,1.5588235294117647,3,High-Pressure Wide Play,1.0,2.0,True,True
+9905,1. FSV Mainz 05,2014/2015,Physical Defensive Build-Up,0,1.181818181818182,4,Physical Defensive Build-Up,0.0,3.0,True,False
+9905,1. FSV Mainz 05,2015/2016,Physical Defensive Build-Up,0,1.5151515151515151,5,Physical Defensive Build-Up,0.0,4.0,True,False
+9906,Atlético Madrid,2011/2012,Elite All-Round Profile,4,1.4736842105263157,1,Elite All-Round Profile,4.0,0.0,True,False
+9906,Atlético Madrid,2012/2013,Elite All-Round Profile,4,2.0,2,Elite All-Round Profile,4.0,1.0,True,False
+9906,Atlético Madrid,2013/2014,Elite All-Round Profile,4,2.3684210526315788,3,Elite All-Round Profile,4.0,2.0,True,False
+9906,Atlético Madrid,2014/2015,Elite All-Round Profile,4,2.027027027027027,4,Elite All-Round Profile,4.0,3.0,True,False
+9906,Atlético Madrid,2015/2016,Elite All-Round Profile,4,2.297297297297298,5,Elite All-Round Profile,4.0,4.0,True,False
+9908,FC Utrecht,2011/2012,Lower-Strength Profile,3,1.2647058823529411,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+9908,FC Utrecht,2012/2013,Lower-Strength Profile,3,1.84375,2,Lower-Strength Profile,3.0,1.0,True,False
+9908,FC Utrecht,2013/2014,Lower-Strength Profile,3,1.2413793103448276,3,Lower-Strength Profile,3.0,2.0,True,False
+9908,FC Utrecht,2014/2015,Lower-Strength Profile,3,1.09375,4,Lower-Strength Profile,3.0,3.0,True,False
+9908,FC Utrecht,2015/2016,High-Pressure Wide Play,1,1.5588235294117647,5,Lower-Strength Profile,3.0,4.0,True,True
+9910,RC Celta de Vigo,2013/2014,High-Pressure Wide Play,1,1.2894736842105263,3,High-Pressure Wide Play,1.0,2.0,True,False
+9910,RC Celta de Vigo,2014/2015,High-Pressure Wide Play,1,1.351351351351351,4,High-Pressure Wide Play,1.0,3.0,True,False
+9910,RC Celta de Vigo,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.5945945945945943,5,High-Pressure Wide Play,1.0,4.0,True,True
+9925,Celtic,2011/2012,High-Pressure Wide Play,1,2.4166666666666665,1,High-Pressure Wide Play,1.0,0.0,True,False
+9925,Celtic,2012/2013,High-Pressure Wide Play,1,2.096774193548387,2,High-Pressure Wide Play,1.0,1.0,True,False
+9925,Celtic,2013/2014,High-Pressure Wide Play,1,2.5588235294117645,3,High-Pressure Wide Play,1.0,2.0,True,False
+9925,Celtic,2014/2015,High-Pressure Wide Play,1,2.4210526315789473,4,High-Pressure Wide Play,1.0,3.0,True,False
+9925,Celtic,2015/2016,High-Pressure Wide Play,1,2.263157894736842,5,High-Pressure Wide Play,1.0,4.0,True,False
+9927,Motherwell,2011/2012,Lower-Strength Profile,3,1.5555555555555556,1,High-Pressure Wide Play,1.0,0.0,True,True
+9927,Motherwell,2012/2013,Lower-Strength Profile,3,1.5806451612903225,2,Lower-Strength Profile,3.0,1.0,True,False
+9927,Motherwell,2013/2014,Lower-Strength Profile,3,1.7428571428571429,3,Lower-Strength Profile,3.0,2.0,True,False
+9927,Motherwell,2014/2015,Lower-Strength Profile,3,0.9473684210526316,4,Lower-Strength Profile,3.0,3.0,True,False
+9927,Motherwell,2015/2016,Lower-Strength Profile,3,1.3157894736842106,5,Lower-Strength Profile,3.0,4.0,True,False
+9930,FC Aarau,2014/2015,Lower-Strength Profile,3,0.8125,4,Lower-Strength Profile,3.0,3.0,True,False
+9931,FC Basel,2011/2012,High-Pressure Wide Play,1,2.176470588235294,1,High-Pressure Wide Play,1.0,0.0,True,False
+9931,FC Basel,2012/2013,High-Pressure Wide Play,1,2.0,2,High-Pressure Wide Play,1.0,1.0,True,False
+9931,FC Basel,2013/2014,High-Pressure Wide Play,1,2.0,3,High-Pressure Wide Play,1.0,2.0,True,False
+9931,FC Basel,2014/2015,High-Pressure Wide Play,1,2.0625,4,High-Pressure Wide Play,1.0,3.0,True,False
+9931,FC Basel,2015/2016,High-Pressure Wide Play,1,2.193548387096774,5,High-Pressure Wide Play,1.0,4.0,True,False
+9938,Dundee United,2011/2012,High-Pressure Wide Play,1,1.5555555555555556,1,High-Pressure Wide Play,1.0,0.0,True,False
+9938,Dundee United,2012/2013,Physical Defensive Build-Up,0,1.1290322580645162,2,High-Pressure Wide Play,1.0,1.0,True,True
+9938,Dundee United,2013/2014,Lower-Strength Profile,3,1.4705882352941178,3,Physical Defensive Build-Up,0.0,2.0,True,True
+9938,Dundee United,2014/2015,Lower-Strength Profile,3,1.4736842105263157,4,Lower-Strength Profile,3.0,3.0,True,False
+9938,Dundee United,2015/2016,Lower-Strength Profile,3,0.8157894736842105,5,Lower-Strength Profile,3.0,4.0,True,False
+9941,Toulouse FC,2011/2012,Physical Defensive Build-Up,0,1.3888888888888888,1,Physical Defensive Build-Up,0.0,0.0,True,False
+9941,Toulouse FC,2012/2013,Physical Defensive Build-Up,0,1.351351351351351,2,Physical Defensive Build-Up,0.0,1.0,True,False
+9941,Toulouse FC,2013/2014,Physical Defensive Build-Up,0,1.2894736842105263,3,Physical Defensive Build-Up,0.0,2.0,True,False
+9941,Toulouse FC,2014/2015,Physical Defensive Build-Up,0,1.105263157894737,4,Physical Defensive Build-Up,0.0,3.0,True,False
+9941,Toulouse FC,2015/2016,Physical Defensive Build-Up,0,1.0526315789473684,5,Physical Defensive Build-Up,0.0,4.0,True,False
+9956,Grasshopper Club Zürich,2011/2012,Lower-Strength Profile,3,0.696969696969697,1,Lower-Strength Profile,3.0,0.0,True,False
+9956,Grasshopper Club Zürich,2012/2013,Lower-Strength Profile,3,1.9166666666666667,2,Lower-Strength Profile,3.0,1.0,True,False
+9956,Grasshopper Club Zürich,2013/2014,Lower-Strength Profile,3,1.8055555555555556,3,Lower-Strength Profile,3.0,2.0,True,False
+9956,Grasshopper Club Zürich,2014/2015,Lower-Strength Profile,3,1.1875,4,Lower-Strength Profile,3.0,3.0,True,False
+9956,Grasshopper Club Zürich,2015/2016,Lower-Strength Profile,3,1.4838709677419355,5,Lower-Strength Profile,3.0,4.0,True,False
+9984,KSV Cercle Brugge,2011/2012,High-Pressure Wide Play,1,1.3846153846153846,1,High-Pressure Wide Play,1.0,0.0,True,False
+9984,KSV Cercle Brugge,2012/2013,High-Pressure Wide Play,1,0.4642857142857143,2,High-Pressure Wide Play,1.0,1.0,True,False
+9985,Standard de Liège,2011/2012,High-Pressure Wide Play,1,1.6296296296296295,1,High-Pressure Wide Play,1.0,0.0,True,False
+9985,Standard de Liège,2012/2013,High-Pressure Wide Play,1,1.5714285714285714,2,High-Pressure Wide Play,1.0,1.0,True,False
+9985,Standard de Liège,2015/2016,High-Pressure Wide Play,1,1.3793103448275863,5,High-Pressure Wide Play,1.0,4.0,True,False
+9986,Sporting Charleroi,2015/2016,Lower-Strength Profile,3,1.2413793103448276,5,Lower-Strength Profile,3.0,4.0,True,False
+9987,KRC Genk,2011/2012,High-Pressure Wide Play,1,1.3846153846153846,1,High-Pressure Wide Play,1.0,0.0,True,False
+9987,KRC Genk,2012/2013,High-Pressure Wide Play,1,1.8928571428571428,2,High-Pressure Wide Play,1.0,1.0,True,False
+9987,KRC Genk,2015/2016,High-Pressure Wide Play,1,1.6,5,High-Pressure Wide Play,1.0,4.0,True,False
+9989,Lierse SK,2012/2013,Lower-Strength Profile,3,0.8571428571428571,2,Lower-Strength Profile,3.0,1.0,True,False
+9991,KAA Gent,2011/2012,High-Pressure Wide Play,1,1.8148148148148149,1,Lower-Strength Profile,3.0,0.0,True,True
+9991,KAA Gent,2012/2013,High-Pressure Wide Play,1,1.1071428571428572,2,High-Pressure Wide Play,1.0,1.0,True,False
+9991,KAA Gent,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,2.0,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+9993,Beerschot AC,2011/2012,Lower-Strength Profile,3,1.1785714285714286,1,High-Pressure Wide Play,1.0,0.0,True,True
+9993,Beerschot AC,2012/2013,Lower-Strength Profile,3,0.8214285714285714,2,Lower-Strength Profile,3.0,1.0,True,False
+9994,Sporting Lokeren,2011/2012,Lower-Strength Profile,3,1.5,1,High-Pressure Wide Play,1.0,0.0,True,True
+9994,Sporting Lokeren,2012/2013,Lower-Strength Profile,3,1.6785714285714286,2,Lower-Strength Profile,3.0,1.0,True,False
+9994,Sporting Lokeren,2015/2016,Lower-Strength Profile,3,1.1333333333333333,5,Physical Defensive Build-Up,0.0,4.0,True,True
+9997,Sint-Truidense VV,2011/2012,Lower-Strength Profile,3,0.5925925925925926,1,Lower-Strength Profile,3.0,0.0,True,False
+10000,SV Zulte-Waregem,2011/2012,Lower-Strength Profile,3,1.0,1,High-Pressure Wide Play,1.0,0.0,True,True
+10000,SV Zulte-Waregem,2012/2013,Lower-Strength Profile,3,2.0357142857142856,2,Lower-Strength Profile,3.0,1.0,True,False
+10000,SV Zulte-Waregem,2015/2016,Lower-Strength Profile,3,1.4333333333333331,5,Lower-Strength Profile,3.0,4.0,True,False
+10001,KVC Westerlo,2011/2012,Lower-Strength Profile,3,0.5925925925925926,1,High-Pressure Wide Play,1.0,0.0,True,True
+10001,KVC Westerlo,2015/2016,Lower-Strength Profile,3,1.0,5,Lower-Strength Profile,3.0,4.0,True,False
+10003,Swansea City,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.2105263157894737,2,High-Pressure Wide Play,1.0,1.0,True,True
+10003,Swansea City,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.054054054054054,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+10003,Swansea City,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.4736842105263157,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+10003,Swansea City,2015/2016,Physical Defensive Build-Up,0,1.2702702702702702,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,True
+10167,Parma,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.5,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,False
+10167,Parma,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.2894736842105263,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+10167,Parma,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.5263157894736843,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+10167,Parma,2014/2015,High-Pressure Wide Play,1,0.6842105263157895,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,True
+10172,Queens Park Rangers,2012/2013,Physical Defensive Build-Up,0,0.6578947368421053,2,Physical Defensive Build-Up,0.0,1.0,True,False
+10179,FC Sion,2011/2012,Lower-Strength Profile,3,1.5588235294117647,1,Lower-Strength Profile,3.0,0.0,True,False
+10179,FC Sion,2012/2013,Lower-Strength Profile,3,1.3333333333333333,2,Lower-Strength Profile,3.0,1.0,True,False
+10179,FC Sion,2013/2014,High-Pressure Wide Play,1,1.1944444444444444,3,Lower-Strength Profile,3.0,2.0,True,True
+10179,FC Sion,2014/2015,High-Pressure Wide Play,1,1.125,4,High-Pressure Wide Play,1.0,3.0,True,False
+10179,FC Sion,2015/2016,High-Pressure Wide Play,1,1.2903225806451613,5,High-Pressure Wide Play,1.0,4.0,True,False
+10189,FC Schalke 04,2011/2012,High-Pressure Wide Play,1,1.8823529411764703,1,High-Pressure Wide Play,1.0,0.0,True,False
+10189,FC Schalke 04,2012/2013,Elite All-Round Profile,4,1.5757575757575757,2,High-Pressure Wide Play,1.0,1.0,True,True
+10189,FC Schalke 04,2013/2014,Elite All-Round Profile,4,1.8823529411764703,3,Elite All-Round Profile,4.0,2.0,True,False
+10189,FC Schalke 04,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.411764705882353,4,Elite All-Round Profile,4.0,3.0,True,True
+10189,FC Schalke 04,2015/2016,Elite All-Round Profile,4,1.5454545454545454,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,True
+10190,FC St. Gallen,2013/2014,Lower-Strength Profile,3,1.25,3,Lower-Strength Profile,3.0,2.0,True,False
+10190,FC St. Gallen,2014/2015,Lower-Strength Profile,3,1.40625,4,Lower-Strength Profile,3.0,3.0,True,False
+10190,FC St. Gallen,2015/2016,Lower-Strength Profile,3,1.096774193548387,5,Lower-Strength Profile,3.0,4.0,True,False
+10191,FC Thun,2012/2013,Lower-Strength Profile,3,1.3333333333333333,2,Lower-Strength Profile,3.0,1.0,True,False
+10191,FC Thun,2013/2014,Lower-Strength Profile,3,1.3333333333333333,3,Lower-Strength Profile,3.0,2.0,True,False
+10191,FC Thun,2014/2015,Lower-Strength Profile,3,1.3125,4,Lower-Strength Profile,3.0,3.0,True,False
+10191,FC Thun,2015/2016,Lower-Strength Profile,3,0.935483870967742,5,Lower-Strength Profile,3.0,4.0,True,False
+10192,BSC Young Boys,2011/2012,High-Pressure Wide Play,1,1.5151515151515151,1,High-Pressure Wide Play,1.0,0.0,True,False
+10192,BSC Young Boys,2012/2013,Lower-Strength Profile,3,1.1944444444444444,2,High-Pressure Wide Play,1.0,1.0,True,True
+10192,BSC Young Boys,2013/2014,Lower-Strength Profile,3,1.6388888888888888,3,Lower-Strength Profile,3.0,2.0,True,False
+10192,BSC Young Boys,2014/2015,Lower-Strength Profile,3,1.78125,4,Lower-Strength Profile,3.0,3.0,True,False
+10192,BSC Young Boys,2015/2016,Lower-Strength Profile,3,1.9375,5,Lower-Strength Profile,3.0,4.0,True,False
+10194,Stoke City,2011/2012,Physical Defensive Build-Up,0,1.1891891891891893,1,Physical Defensive Build-Up,0.0,0.0,True,False
+10194,Stoke City,2012/2013,Physical Defensive Build-Up,0,1.108108108108108,2,Physical Defensive Build-Up,0.0,1.0,True,False
+10194,Stoke City,2013/2014,Physical Defensive Build-Up,0,1.2702702702702702,3,Physical Defensive Build-Up,0.0,2.0,True,False
+10194,Stoke City,2014/2015,Physical Defensive Build-Up,0,1.4594594594594594,4,Physical Defensive Build-Up,0.0,3.0,True,False
+10194,Stoke City,2015/2016,Physical Defensive Build-Up,0,1.3421052631578947,5,Physical Defensive Build-Up,0.0,4.0,True,False
+10199,FC Luzern,2011/2012,Lower-Strength Profile,3,1.5454545454545454,1,Lower-Strength Profile,3.0,0.0,True,False
+10199,FC Luzern,2012/2013,Lower-Strength Profile,3,1.1666666666666667,2,Lower-Strength Profile,3.0,1.0,True,False
+10199,FC Luzern,2013/2014,Lower-Strength Profile,3,1.4166666666666667,3,Lower-Strength Profile,3.0,2.0,True,False
+10199,FC Luzern,2014/2015,Lower-Strength Profile,3,1.21875,4,Lower-Strength Profile,3.0,3.0,True,False
+10199,FC Luzern,2015/2016,Lower-Strength Profile,3,1.4375,5,Lower-Strength Profile,3.0,4.0,True,False
+10205,Villarreal CF,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.108108108108108,1,Elite All-Round Profile,4.0,0.0,True,True
+10205,Villarreal CF,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.5945945945945943,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+10205,Villarreal CF,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.6842105263157894,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+10211,SC Beira Mar,2012/2013,Lower-Strength Profile,3,0.8461538461538461,2,Lower-Strength Profile,3.0,1.0,True,False
+10212,CS Marítimo,2011/2012,Lower-Strength Profile,3,1.6666666666666667,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+10212,CS Marítimo,2012/2013,Lower-Strength Profile,3,1.1923076923076923,2,Lower-Strength Profile,3.0,1.0,True,False
+10212,CS Marítimo,2013/2014,Lower-Strength Profile,3,1.25,3,Lower-Strength Profile,3.0,2.0,True,False
+10212,CS Marítimo,2014/2015,Physical Defensive Build-Up,0,1.0666666666666669,4,Lower-Strength Profile,3.0,3.0,True,True
+10212,CS Marítimo,2015/2016,Physical Defensive Build-Up,0,0.9666666666666668,5,Physical Defensive Build-Up,0.0,4.0,True,False
+10214,CD Nacional,2011/2012,Lower-Strength Profile,3,1.3703703703703705,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+10214,CD Nacional,2012/2013,High-Pressure Wide Play,1,1.4230769230769231,2,Lower-Strength Profile,3.0,1.0,True,True
+10214,CD Nacional,2013/2014,High-Pressure Wide Play,1,1.6296296296296295,3,High-Pressure Wide Play,1.0,2.0,True,False
+10214,CD Nacional,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.206896551724138,4,High-Pressure Wide Play,1.0,3.0,True,True
+10214,CD Nacional,2015/2016,Lower-Strength Profile,3,1.0666666666666669,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,True
+10215,Académica de Coimbra,2011/2012,Lower-Strength Profile,3,0.9615384615384616,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+10215,Académica de Coimbra,2012/2013,High-Pressure Wide Play,1,0.9230769230769232,2,Lower-Strength Profile,3.0,1.0,True,True
+10215,Académica de Coimbra,2013/2014,High-Pressure Wide Play,1,1.1851851851851851,3,High-Pressure Wide Play,1.0,2.0,True,False
+10215,Académica de Coimbra,2014/2015,Lower-Strength Profile,3,0.8666666666666667,4,High-Pressure Wide Play,1.0,3.0,True,True
+10215,Académica de Coimbra,2015/2016,Lower-Strength Profile,3,0.6333333333333333,5,Lower-Strength Profile,3.0,4.0,True,False
+10217,ADO Den Haag,2011/2012,High-Pressure Wide Play,1,0.9411764705882352,1,Lower-Strength Profile,3.0,0.0,True,True
+10217,ADO Den Haag,2012/2013,High-Pressure Wide Play,1,1.21875,2,High-Pressure Wide Play,1.0,1.0,True,False
+10217,ADO Den Haag,2013/2014,High-Pressure Wide Play,1,1.1333333333333333,3,High-Pressure Wide Play,1.0,2.0,True,False
+10217,ADO Den Haag,2014/2015,High-Pressure Wide Play,1,1.064516129032258,4,High-Pressure Wide Play,1.0,3.0,True,False
+10217,ADO Den Haag,2015/2016,Physical Defensive Build-Up,0,1.2647058823529411,5,High-Pressure Wide Play,1.0,4.0,True,True
+10218,Excelsior,2015/2016,Lower-Strength Profile,3,0.8823529411764706,5,Lower-Strength Profile,3.0,4.0,True,False
+10219,RKC Waalwijk,2012/2013,Lower-Strength Profile,3,1.125,2,Lower-Strength Profile,3.0,1.0,True,False
+10219,RKC Waalwijk,2013/2014,Lower-Strength Profile,3,1.0,3,Lower-Strength Profile,3.0,2.0,True,False
+10228,SC Heerenveen,2011/2012,High-Pressure Wide Play,1,1.8823529411764703,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+10228,SC Heerenveen,2012/2013,Physical Defensive Build-Up,0,1.1875,2,High-Pressure Wide Play,1.0,1.0,True,True
+10228,SC Heerenveen,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.6,3,Physical Defensive Build-Up,0.0,2.0,True,True
+10228,SC Heerenveen,2014/2015,Lower-Strength Profile,3,1.53125,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,True
+10228,SC Heerenveen,2015/2016,Physical Defensive Build-Up,0,1.2352941176470589,5,Lower-Strength Profile,3.0,4.0,True,True
+10229,AZ,2011/2012,High-Pressure Wide Play,1,1.911764705882353,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,True
+10229,AZ,2012/2013,High-Pressure Wide Play,1,1.03125,2,High-Pressure Wide Play,1.0,1.0,True,False
+10229,AZ,2013/2014,High-Pressure Wide Play,1,1.3333333333333333,3,High-Pressure Wide Play,1.0,2.0,True,False
+10229,AZ,2014/2015,High-Pressure Wide Play,1,1.75,4,High-Pressure Wide Play,1.0,3.0,True,False
+10229,AZ,2015/2016,High-Pressure Wide Play,1,1.7352941176470589,5,High-Pressure Wide Play,1.0,4.0,True,False
+10233,Genoa,2011/2012,Physical Defensive Build-Up,0,1.1111111111111112,1,Elite All-Round Profile,4.0,0.0,True,True
+10233,Genoa,2012/2013,Physical Defensive Build-Up,0,1.0,2,Physical Defensive Build-Up,0.0,1.0,True,False
+10233,Genoa,2013/2014,Physical Defensive Build-Up,0,1.1578947368421053,3,Physical Defensive Build-Up,0.0,2.0,True,False
+10233,Genoa,2014/2015,Physical Defensive Build-Up,0,1.5526315789473684,4,Physical Defensive Build-Up,0.0,3.0,True,False
+10233,Genoa,2015/2016,Physical Defensive Build-Up,0,1.2105263157894737,5,Physical Defensive Build-Up,0.0,4.0,True,False
+10235,Feyenoord,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,2.0588235294117645,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,False
+10235,Feyenoord,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,2.0625,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+10235,Feyenoord,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.9655172413793105,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+10235,Feyenoord,2014/2015,Physical Defensive Build-Up,0,1.65625,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,True
+10235,Feyenoord,2015/2016,Physical Defensive Build-Up,0,1.8529411764705883,5,Physical Defensive Build-Up,0.0,4.0,True,False
+10238,Vitória Setúbal,2011/2012,Lower-Strength Profile,3,1.037037037037037,1,Lower-Strength Profile,3.0,0.0,True,False
+10238,Vitória Setúbal,2012/2013,Lower-Strength Profile,3,0.7692307692307693,2,Lower-Strength Profile,3.0,1.0,True,False
+10238,Vitória Setúbal,2013/2014,Lower-Strength Profile,3,1.2857142857142858,3,Lower-Strength Profile,3.0,2.0,True,False
+10238,Vitória Setúbal,2014/2015,Lower-Strength Profile,3,0.9333333333333332,4,Lower-Strength Profile,3.0,3.0,True,False
+10238,Vitória Setúbal,2015/2016,Lower-Strength Profile,3,0.8275862068965517,5,Lower-Strength Profile,3.0,4.0,True,False
+10243,FC Zürich,2011/2012,Lower-Strength Profile,3,1.28125,1,Lower-Strength Profile,3.0,0.0,True,False
+10243,FC Zürich,2012/2013,Lower-Strength Profile,3,1.5277777777777777,2,Lower-Strength Profile,3.0,1.0,True,False
+10243,FC Zürich,2013/2014,Lower-Strength Profile,3,1.3888888888888888,3,Lower-Strength Profile,3.0,2.0,True,False
+10243,FC Zürich,2014/2015,Lower-Strength Profile,3,1.40625,4,Lower-Strength Profile,3.0,3.0,True,False
+10243,FC Zürich,2015/2016,Lower-Strength Profile,3,0.9032258064516128,5,Lower-Strength Profile,3.0,4.0,True,False
+10249,Montpellier Hérault SC,2011/2012,Physical Defensive Build-Up,0,2.1578947368421053,1,High-Pressure Wide Play,1.0,0.0,True,True
+10249,Montpellier Hérault SC,2012/2013,Physical Defensive Build-Up,0,1.4054054054054057,2,Physical Defensive Build-Up,0.0,1.0,True,False
+10249,Montpellier Hérault SC,2013/2014,Physical Defensive Build-Up,0,1.105263157894737,3,Physical Defensive Build-Up,0.0,2.0,True,False
+10249,Montpellier Hérault SC,2014/2015,Physical Defensive Build-Up,0,1.4324324324324325,4,Physical Defensive Build-Up,0.0,3.0,True,False
+10249,Montpellier Hérault SC,2015/2016,Physical Defensive Build-Up,0,1.3243243243243243,5,Physical Defensive Build-Up,0.0,4.0,True,False
+10251,Hibernian,2011/2012,Lower-Strength Profile,3,0.8285714285714286,1,High-Pressure Wide Play,1.0,0.0,True,True
+10251,Hibernian,2012/2013,Lower-Strength Profile,3,1.4193548387096775,2,Lower-Strength Profile,3.0,1.0,True,False
+10251,Hibernian,2013/2014,Lower-Strength Profile,3,0.8787878787878788,3,Lower-Strength Profile,3.0,2.0,True,False
+10252,Aston Villa,2011/2012,Physical Defensive Build-Up,0,1.0,1,Physical Defensive Build-Up,0.0,0.0,True,False
+10252,Aston Villa,2012/2013,High-Pressure Wide Play,1,1.108108108108108,2,Physical Defensive Build-Up,0.0,1.0,True,True
+10252,Aston Villa,2013/2014,Physical Defensive Build-Up,0,1.0,3,High-Pressure Wide Play,1.0,2.0,True,True
+10252,Aston Villa,2014/2015,Physical Defensive Build-Up,0,1.0,4,Physical Defensive Build-Up,0.0,3.0,True,False
+10252,Aston Villa,2015/2016,Physical Defensive Build-Up,0,0.3783783783783784,5,Physical Defensive Build-Up,0.0,4.0,True,False
+10260,Manchester United,2011/2012,Elite All-Round Profile,4,2.3421052631578947,1,Elite All-Round Profile,4.0,0.0,True,False
+10260,Manchester United,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,2.324324324324324,2,Elite All-Round Profile,4.0,1.0,True,True
+10260,Manchester United,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.648648648648649,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+10260,Manchester United,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,1.891891891891892,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+10260,Manchester United,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.736842105263158,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+10261,Newcastle United,2011/2012,Elite All-Round Profile,4,1.7297297297297298,1,Physical Defensive Build-Up,0.0,0.0,True,True
+10261,Newcastle United,2012/2013,Physical Defensive Build-Up,0,1.0810810810810811,2,Elite All-Round Profile,4.0,1.0,True,True
+10261,Newcastle United,2013/2014,Physical Defensive Build-Up,0,1.2894736842105263,3,Physical Defensive Build-Up,0.0,2.0,True,False
+10261,Newcastle United,2014/2015,Physical Defensive Build-Up,0,1.0263157894736843,4,Physical Defensive Build-Up,0.0,3.0,True,False
+10261,Newcastle United,2015/2016,Physical Defensive Build-Up,0,0.9736842105263158,5,Physical Defensive Build-Up,0.0,4.0,True,False
+10264,SC Braga,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.9230769230769231,1,Strong Attack-Oriented Controlled Build-Up,2.0,0.0,True,False
+10264,SC Braga,2012/2013,Physical Defensive Build-Up,0,1.6538461538461535,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,True
+10264,SC Braga,2013/2014,Physical Defensive Build-Up,0,1.1111111111111112,3,Physical Defensive Build-Up,0.0,2.0,True,False
+10264,SC Braga,2014/2015,Physical Defensive Build-Up,0,1.6896551724137931,4,Physical Defensive Build-Up,0.0,3.0,True,False
+10264,SC Braga,2015/2016,Physical Defensive Build-Up,0,1.4827586206896552,5,Physical Defensive Build-Up,0.0,4.0,True,False
+10265,Wisła Kraków,2013/2014,Lower-Strength Profile,3,1.6296296296296295,3,Lower-Strength Profile,3.0,2.0,True,False
+10265,Wisła Kraków,2014/2015,Lower-Strength Profile,3,1.3333333333333333,4,Lower-Strength Profile,3.0,3.0,True,False
+10265,Wisła Kraków,2015/2016,Lower-Strength Profile,3,1.1785714285714286,5,Lower-Strength Profile,3.0,4.0,True,False
+10267,Valencia CF,2011/2012,Strong Attack-Oriented Controlled Build-Up,2,1.605263157894737,1,Elite All-Round Profile,4.0,0.0,True,True
+10267,Valencia CF,2012/2013,Strong Attack-Oriented Controlled Build-Up,2,1.6756756756756757,2,Strong Attack-Oriented Controlled Build-Up,2.0,1.0,True,False
+10267,Valencia CF,2013/2014,Strong Attack-Oriented Controlled Build-Up,2,1.2894736842105263,3,Strong Attack-Oriented Controlled Build-Up,2.0,2.0,True,False
+10267,Valencia CF,2014/2015,Strong Attack-Oriented Controlled Build-Up,2,2.0,4,Strong Attack-Oriented Controlled Build-Up,2.0,3.0,True,False
+10267,Valencia CF,2015/2016,Strong Attack-Oriented Controlled Build-Up,2,1.1578947368421053,5,Strong Attack-Oriented Controlled Build-Up,2.0,4.0,True,False
+10268,Elche CF,2014/2015,High-Pressure Wide Play,1,1.108108108108108,4,High-Pressure Wide Play,1.0,3.0,True,False
+10269,VfB Stuttgart,2011/2012,Physical Defensive Build-Up,0,1.5588235294117647,1,Elite All-Round Profile,4.0,0.0,True,True
+10269,VfB Stuttgart,2012/2013,Physical Defensive Build-Up,0,1.2727272727272727,2,Physical Defensive Build-Up,0.0,1.0,True,False
+10269,VfB Stuttgart,2013/2014,Elite All-Round Profile,4,0.9411764705882352,3,Physical Defensive Build-Up,0.0,2.0,True,True
+10269,VfB Stuttgart,2014/2015,Physical Defensive Build-Up,0,1.0588235294117647,4,Elite All-Round Profile,4.0,3.0,True,True
+10269,VfB Stuttgart,2015/2016,Physical Defensive Build-Up,0,0.9705882352941176,5,Physical Defensive Build-Up,0.0,4.0,True,False
+10281,Real Valladolid,2013/2014,High-Pressure Wide Play,1,0.945945945945946,3,High-Pressure Wide Play,1.0,2.0,True,False
+158085,FC Arouca,2015/2016,Lower-Strength Profile,3,1.5333333333333334,5,Lower-Strength Profile,3.0,4.0,True,False

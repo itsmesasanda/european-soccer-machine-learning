@@ -1,0 +1,26 @@
+cluster,feature,centroid_value,team_profile
+0,avg_defence,0.717916203642528,Physical Defensive Build-Up
+0,defencePressure,-0.6451590186564204,Physical Defensive Build-Up
+0,buildUpPlayPassing,0.5774878970858722,Physical Defensive Build-Up
+0,avg_physical,0.5755880202189254,Physical Defensive Build-Up
+0,attack_defence_balance,-0.5503564293484625,Physical Defensive Build-Up
+1,defenceTeamWidth,0.8178660640660559,High-Pressure Wide Play
+1,defencePressure,0.6831051242862016,High-Pressure Wide Play
+1,defenceAggression,0.5382214690138527,High-Pressure Wide Play
+1,chanceCreationCrossing,0.4298159942787639,High-Pressure Wide Play
+1,development_gap,0.4242027210180255,High-Pressure Wide Play
+2,buildUpPlaySpeed,-1.0513441842216535,Strong Attack-Oriented Controlled Build-Up
+2,buildUpPlayPassing,-1.0410432423695493,Strong Attack-Oriented Controlled Build-Up
+2,chanceCreationPassing,-0.7908736754424123,Strong Attack-Oriented Controlled Build-Up
+2,avg_overall_rating,0.5823162453700594,Strong Attack-Oriented Controlled Build-Up
+2,avg_pace,0.5558508185165365,Strong Attack-Oriented Controlled Build-Up
+3,avg_overall_rating,-1.1449880559121535,Lower-Strength Profile
+3,avg_physical,-1.0728323361901626,Lower-Strength Profile
+3,avg_defence,-1.023528092788855,Lower-Strength Profile
+3,avg_pace,-0.912977839213638,Lower-Strength Profile
+3,defenceAggression,-0.3871051308208666,Lower-Strength Profile
+4,avg_overall_rating,1.3327139796917746,Elite All-Round Profile
+4,avg_pace,1.31555979845644,Elite All-Round Profile
+4,avg_physical,1.2601886363930996,Elite All-Round Profile
+4,avg_defence,1.1121949637711392,Elite All-Round Profile
+4,chanceCreationShooting,0.8725716902883044,Elite All-Round Profile
