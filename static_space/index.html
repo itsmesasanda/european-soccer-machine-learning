@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Assign football teams to historical K-Means squad and tactical profiles in your browser.">
+  <meta name="color-scheme" content="light">
+  <title>Football Team Performance Profiler</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav-shell" aria-label="Application information">
+      <a class="brand" href="./" aria-label="Football Team Performance Profiler home">
+        <span class="brand-mark" aria-hidden="true">FP</span>
+        <span>Team Profiler</span>
+      </a>
+      <span class="privacy-chip"><span aria-hidden="true">●</span> Runs in your browser</span>
+    </nav>
+
+    <div class="hero-content">
+      <p class="eyebrow">HISTORICAL ANALYTICS · K-MEANS PROFILING</p>
+      <h1>Football Team<br><span>Performance Profiler</span></h1>
+      <p class="hero-copy">Assign a football team to one of five historical squad/tactical archetypes discovered using K-Means clustering.</p>
+      <div class="scope-note">
+        <span class="scope-icon" aria-hidden="true">i</span>
+        <p><strong>This is profile assignment, not future match prediction.</strong> Profiles describe similarity to historical archetypes and do not guarantee performance.</p>
+      </div>
+      <div id="model-status" class="model-status" role="status" aria-live="polite">
+        <span class="status-dot loading"></span><span>Loading model parameters…</span>
+      </div>
+    </div>
+    <div class="pitch-lines" aria-hidden="true"></div>
+  </header>
+
+  <main class="page-shell">
+    <div class="tabs" role="tablist" aria-label="Analysis type">
+      <button class="tab-button active" id="single-tab" type="button" role="tab" aria-selected="true" aria-controls="single-panel" data-tab="single-panel">
+        <span>01</span> Single Team Analysis
+      </button>
+      <button class="tab-button" id="csv-tab" type="button" role="tab" aria-selected="false" aria-controls="csv-panel" data-tab="csv-panel">
+        <span>02</span> CSV Batch Analysis
+      </button>
+    </div>
+
+    <section class="tab-panel active" id="single-panel" role="tabpanel" aria-labelledby="single-tab">
+      <div class="section-heading">
+        <div><p class="section-label">Single profile assignment</p><h2>Describe the team</h2></div>
+        <p>Set each rating from 0 to 100. Defaults are medians from the historical team-season dataset.</p>
+      </div>
+
+      <form id="team-form" novalidate>
+        <section class="form-card">
+          <div class="card-heading"><span class="card-index">A</span><div><h3>Team identity</h3><p>An optional label for the result.</p></div></div>
+          <label class="text-field">
+            <span>Team Name <small>Optional</small></span>
+            <input type="text" name="team_name" maxlength="120" placeholder="e.g. Example Athletic" autocomplete="off">
+          </label>
+        </section>
+
+        <section class="form-card">
+          <div class="card-heading"><span class="card-index">B</span><div><h3>Squad attributes</h3><p>Player quality and physical characteristics.</p></div></div>
+          <div class="metric-grid">
+            <label class="metric"><span>Overall Rating</span><div><input type="range" name="avg_overall_rating" min="0" max="100" step="0.1" value="71.9"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="71.9" aria-label="Overall Rating numeric value"></div></label>
+            <label class="metric"><span>Potential</span><div><input type="range" name="avg_potential" min="0" max="100" step="0.1" value="75.6"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="75.6" aria-label="Potential numeric value"></div></label>
+            <label class="metric"><span>Goalkeeper Rating</span><div><input type="range" name="goalkeeper_rating" min="0" max="100" step="0.1" value="72.5"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="72.5" aria-label="Goalkeeper Rating numeric value"></div></label>
+            <label class="metric"><span>Pace</span><div><input type="range" name="avg_pace" min="0" max="100" step="0.1" value="69.3"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="69.3" aria-label="Pace numeric value"></div></label>
+            <label class="metric"><span>Physical</span><div><input type="range" name="avg_physical" min="0" max="100" step="0.1" value="69.3"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="69.3" aria-label="Physical numeric value"></div></label>
+            <label class="metric"><span>Defence</span><div><input type="range" name="avg_defence" min="0" max="100" step="0.1" value="56.2"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="56.2" aria-label="Defence numeric value"></div></label>
+            <label class="metric"><span>Attack</span><div><input type="range" name="avg_attack" min="0" max="100" step="0.1" value="58.9"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="58.9" aria-label="Attack numeric value"></div></label>
+          </div>
+        </section>
+
+        <section class="form-card">
+          <div class="card-heading"><span class="card-index">C</span><div><h3>Tactical attributes</h3><p>Build-up, chance-creation and defensive style.</p></div></div>
+          <div class="metric-grid">
+            <label class="metric"><span>Build-Up Speed</span><div><input type="range" name="buildUpPlaySpeed" min="0" max="100" step="0.1" value="52.8"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="52.8" aria-label="Build-Up Speed numeric value"></div></label>
+            <label class="metric"><span>Build-Up Passing</span><div><input type="range" name="buildUpPlayPassing" min="0" max="100" step="0.1" value="48"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="48" aria-label="Build-Up Passing numeric value"></div></label>
+            <label class="metric"><span>Chance Creation Passing</span><div><input type="range" name="chanceCreationPassing" min="0" max="100" step="0.1" value="52"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="52" aria-label="Chance Creation Passing numeric value"></div></label>
+            <label class="metric"><span>Chance Creation Crossing</span><div><input type="range" name="chanceCreationCrossing" min="0" max="100" step="0.1" value="54"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="54" aria-label="Chance Creation Crossing numeric value"></div></label>
+            <label class="metric"><span>Chance Creation Shooting</span><div><input type="range" name="chanceCreationShooting" min="0" max="100" step="0.1" value="53.2"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="53.2" aria-label="Chance Creation Shooting numeric value"></div></label>
+            <label class="metric"><span>Defensive Pressure</span><div><input type="range" name="defencePressure" min="0" max="100" step="0.1" value="45.9"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="45.9" aria-label="Defensive Pressure numeric value"></div></label>
+            <label class="metric"><span>Defensive Aggression</span><div><input type="range" name="defenceAggression" min="0" max="100" step="0.1" value="48.3"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="48.3" aria-label="Defensive Aggression numeric value"></div></label>
+            <label class="metric"><span>Defensive Width</span><div><input type="range" name="defenceTeamWidth" min="0" max="100" step="0.1" value="52"><input class="metric-number" type="number" min="0" max="100" step="0.1" value="52" aria-label="Defensive Width numeric value"></div></label>
+          </div>
+        </section>
+
+        <div id="single-error" class="message error-message" role="alert" hidden></div>
+        <button id="analyse-button" class="primary-button" type="submit" disabled><span>Analyse Team</span><span aria-hidden="true">→</span></button>
+      </form>
+
+      <article id="result-card" class="result-card" aria-live="polite" hidden>
+        <div class="result-topline"><p>Assigned historical profile</p><span id="result-cluster" class="cluster-pill"></span></div>
+        <p id="result-team" class="result-team"></p>
+        <h2 id="result-profile"></h2>
+        <p id="result-description" class="result-description"></p>
+        <div class="distance-panel">
+          <div><span>Distance to profile centre</span><strong id="result-distance"></strong></div>
+          <p>A smaller distance means the team's standardized characteristics are closer to the centre of this historical profile. It is not a probability, confidence, or likelihood.</p>
+        </div>
+      </article>
+    </section>
+
+    <section class="tab-panel" id="csv-panel" role="tabpanel" aria-labelledby="csv-tab" hidden>
+      <div class="section-heading">
+        <div><p class="section-label">Private browser analysis</p><h2>Analyse a CSV</h2></div>
+        <p>Your file is read and processed locally by this page. No uploaded data is sent to a server.</p>
+      </div>
+
+      <div class="csv-layout">
+        <form id="csv-form" class="form-card upload-card">
+          <div class="card-heading"><span class="card-index wide">CSV</span><div><h3>Team data file</h3><p>Comma-separated values with one header row.</p></div></div>
+          <label id="file-drop" class="file-drop" for="csv-file">
+            <span class="upload-icon" aria-hidden="true">↑</span>
+            <strong id="file-label">Choose a CSV file</strong>
+            <span>or drag and drop it here · maximum 5 MB</span>
+            <input id="csv-file" name="file" type="file" accept=".csv,text/csv" required>
+          </label>
+          <div id="csv-error" class="message error-message" role="alert" hidden></div>
+          <button id="csv-button" class="primary-button" type="submit" disabled><span>Analyse CSV</span><span aria-hidden="true">→</span></button>
+        </form>
+
+        <aside class="requirements-card">
+          <p class="section-label">File requirements</p>
+          <h3>Required CSV columns</h3>
+          <p><code>team_name</code> is optional. All 15 numeric fields below are required.</p>
+          <div id="required-columns" class="column-list"></div>
+          <a class="secondary-button" href="example_team_data.csv" download>Download Example CSV <span aria-hidden="true">↓</span></a>
+        </aside>
+      </div>
+
+      <section id="batch-results" class="batch-results" aria-live="polite" hidden>
+        <div class="results-heading">
+          <div><p class="section-label">Analysis complete</p><h2 id="batch-count"></h2></div>
+          <button id="download-results" class="secondary-button" type="button">Download Analysed CSV <span aria-hidden="true">↓</span></button>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Team</th><th>Cluster</th><th>Assigned profile</th><th>Distance</th></tr></thead>
+            <tbody id="results-body"></tbody>
+          </table>
+        </div>
+        <p class="table-note">Distances are measured in standardized feature space. They are not probabilities or confidence scores.</p>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <p>European Soccer ML · Browser-only historical team profiling</p>
+    <p>No analytics · No external APIs · No data uploads</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,29 @@
+# Decision Log
+
+| Stage | Decision | Evidence and rationale | Evidence location |
+|---|---|---|---|
+| Problem definition | Predict Home Win, Draw, Away Win; use Macro F1 as primary | Moderate imbalance and very weak Draw performance can be hidden by accuracy | EDA notebook; `match_outcome_distribution.png` |
+| Data scope | Use 2010/11–2015/16 for modelling | Team tactical history begins in 2010; earlier seasons have insufficient historical coverage | Notebook 01; `data_retention.csv` |
+| Market information | Exclude betting odds | The selected methodology should measure engineered football/team information rather than reproduce bookmaker consensus | Notebook 01 |
+| Leakage prevention | Exclude final goals and match-event fields from predictors | They describe the outcome or events during/after the match | Notebook 01; data dictionary |
+| Historical joins | Use latest team/player snapshot on or before match date | Backward joins prevent future snapshots; date-only timestamps create a documented same-day limitation | Notebook 01 |
+| Recent form | Shift by one match before rolling previous five | Prevents the current result entering its own form predictors | Notebook 01 |
+| Coverage | Require five prior matches and at least eight historically rated players per side | Avoid incomplete form and team-strength estimates based on very small lineup coverage | Notebook 01; `data_retention.csv` |
+| Candidate predictors | Retain 75 legitimate pre-encoding predictors | IDs, names, raw player IDs/coordinates, join dates and post-match fields are excluded by meaning | Notebook 01; `model_data_dictionary.csv` |
+| Chronology | Train 2010/11–2013/14, validate 2014/15, test 2015/16 | Mimics prediction into a later season and avoids random future/past mixing | Notebook 03 |
+| Encoding | Convert season to start year; one-hot encode categorical context using training-fitted schema | Produces aligned numeric splits while handling unseen validation/test categories | Notebook 03 |
+| Redundancy | Remove home/away `players_listed` counts | Each correlates above 0.96 with its rated-player coverage counterpart | Notebook 03; `highly_correlated_features.csv` |
+| Feature screening | Retain a ranked Top 40 for focused experiments | Random Forest Top 30 narrowly led (`0.3937` Macro F1), while Top 40 was practically tied (`0.3931`, difference below `0.001`) and preserved ten additional ranked predictors while still halving the 80-column representation; the final model separately rechecks Top 40 versus all features | Notebook 04; `feature_selection_comparison.csv` |
+| Final feature set | Use Top 40 for Gradient Boosting | Top 40 Macro F1 `0.4570`; all 80 `0.4545`. The smaller set is both better here and more interpretable | Notebook 05; `gradient_boosting_feature_set_comparison.csv` |
+| Imbalance treatment | Use balanced sample weights for Gradient Boosting only | On the same Top-40 baseline, Macro F1 improved from `0.3806` unweighted to `0.4570`; Draw F1 improved from `0.0264` to `0.3020`. Class weighting did not improve Random Forest, so the choice is model-specific | Notebook 04; `gradient_boosting_imbalance_comparison.csv` |
+| Optional XGBoost | Remove it | The experiment was unfinished and added an unnecessary package dependency; existing completed alternatives provide sufficient method comparison | Finalization audit |
+| Model family | Select Gradient Boosting | It led the completed final candidate comparison on validation Macro F1 | Notebook 05; `final_model_validation_comparison.csv` |
+| Tuning | Sample 20 configurations with `ParameterSampler(random_state=42)` | Modest reproducible search; every fit uses training only and scores 2014/15 validation | Notebook 05; `gradient_boosting_tuning_results.csv` |
+| Tuned configuration | 250 trees, learning rate 0.05, depth 2, minimum leaf 5, subsample 1.0 | Best validation Macro F1 `0.4636`; accuracy `0.4813` | `final_supervised_model_config.csv` |
+| Final evaluation | Refit locked model on train + validation, evaluate test once | No test metric informed feature, model, imbalance or parameter choices | Notebook 05; final supervised outputs |
+| Cluster method | K-Means with five clusters | Best of completed K-Means/Hierarchical/GMM comparison on all three separation metrics and supports readable profile interpretation | Unsupervised Notebook 03; `clustering_model_comparison.csv` |
+| PCA sensitivity | Retain the original 15-feature K-Means rather than replace it with PCA + K-Means | Seven-component/five-cluster PCA retains 75.9% variance and improves native-space silhouette to `0.1443`, but the same labels score `0.1007` in the original space and closely reproduce the current result (ARI `0.9304`) | Unsupervised Notebook 04; `pca_kmeans_candidate_summary.csv` |
+| Density sensitivity | Reject DBSCAN and PCA + DBSCAN as final profiling methods | No searched configuration passed the usability screen; the strongest valid scores came from one giant cluster containing over 99% of assigned rows plus a microcluster | Unsupervised Notebook 04; `dbscan_search_results.csv`; `pca_dbscan_search_results.csv` |
+| Cluster interpretation | Report centroid distance only as geometric closeness | Distance is not confidence, probability, or likelihood | Clustering notebook and static app |
+| Assignment ambiguity | Use the bottom distance-margin decile only as a relative review group | The distribution supplies a reproducible inspection tail without inventing a football-domain cutoff; margin and distance ratio remain geometric diagnostics, not confidence | Unsupervised Notebook 04; `team_profile_assignment_ambiguity.csv` |
+| Deployment | Keep only the browser-only Static Space | No backend, GPU, credential, uploaded-data transfer, or abandoned deployment dependency is required | `static_space/`; parity validator |

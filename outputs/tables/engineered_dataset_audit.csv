@@ -1,0 +1,12 @@
+metric,value
+Final usable matches,17609.0
+Candidate features before encoding,75.0
+Missing candidate values,0.0
+Duplicate match IDs,0.0
+Leagues represented,11.0
+Seasons represented,6.0
+Numeric candidate features,65.0
+Categorical candidate features,10.0
+Home Win percent,45.57896530183429
+Draw percent,25.305241637798854
+Away Win percent,29.115793060366858

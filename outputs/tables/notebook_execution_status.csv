@@ -1,0 +1,10 @@
+notebook,status,elapsed_seconds,error
+notebooks/supervised/01_data_inspection_and_feature_engineering.ipynb,passed,4.74,
+notebooks/supervised/02_exploratory_data_analysis.ipynb,passed,19.39,
+notebooks/supervised/03_data_cleaning_and_preprocessing.ipynb,passed,2.79,
+notebooks/supervised/04_feature_selection_and_baseline_modeling.ipynb,passed,44.32,
+notebooks/supervised/05_final_model_fitting_and_evaluation.ipynb,passed,624.46,
+notebooks/unsupervised/01_team_performance_profiling.ipynb,passed,1.32,
+notebooks/unsupervised/02_team_performance_eda.ipynb,passed,8.04,
+notebooks/unsupervised/03_team_performance_clustering.ipynb,passed,12.91,
+notebooks/unsupervised/04_clustering_overlap_and_alternatives.ipynb,passed,11.69,

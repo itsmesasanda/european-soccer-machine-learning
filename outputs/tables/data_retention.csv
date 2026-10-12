@@ -1,0 +1,6 @@
+stage,matches_retained,matches_removed_at_stage,percent_of_raw_retained
+Raw Match table,25979,0,100.0
+Keep 2010/11–2015/16,19423,6556,74.76423264944762
+Require historical team attributes,18268,1155,70.31833403903153
+Require five previous matches for form,18016,252,69.34831979675891
+Require at least eight rated players per side,17609,407,67.78166981023134

@@ -1,14 +1,29 @@
+# Local Python environments
 .venv/
+venv/
+env/
+
+# Python and test caches
 __pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Notebook and editor state
 .ipynb_checkpoints/
+.jupyter/
 .DS_Store
 
-data/raw/
-data/extracted/
-data/processed/
+# Large/local datasets are recreated from the documented source workbook.
+data/raw/*
+!data/raw/.gitkeep
+data/extracted/*
+!data/extracted/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
 
-notebooks/data/
-
+# Keep the final team-profiling artifacts used by the static deployment.
 models/*
 !models/.gitkeep
 !models/team_profiling/

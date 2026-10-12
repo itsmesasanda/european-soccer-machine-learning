@@ -1,0 +1,8 @@
+measure,value
+median distance margin,0.6697139738911779
+10th percentile distance margin,0.15000960192685375
+90th percentile distance margin,1.4474103411059043
+median nearest/second ratio,0.8246335676628169
+90th percentile nearest/second ratio,0.9581891329837281
+observations in most ambiguous margin decile,103.0
+percentage in most ambiguous margin decile,10.019455252918288

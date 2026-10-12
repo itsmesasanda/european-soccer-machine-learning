@@ -1,0 +1,21 @@
+team_api_id,team_name,league_name,season,kmeans_cluster,team_profile,nearest_centroid_distance,second_nearest_centroid_distance,distance_margin,nearest_second_ratio,relative_ambiguity_group,example_type
+8524,Atalanta,Italy Serie A,2011/2012,0,Physical Defensive Build-Up,2.2569894953715797,2.268766306468628,0.011776811097048423,0.9948091563844761,most ambiguous margin decile,highly ambiguous
+10189,FC Schalke 04,Germany 1. Bundesliga,2011/2012,1,High-Pressure Wide Play,4.899901157467431,4.913003388402723,0.01310223093529217,0.9973331524732467,most ambiguous margin decile,highly ambiguous
+7869,Córdoba CF,Spain LIGA BBVA,2014/2015,2,Strong Attack-Oriented Controlled Build-Up,3.374545855243168,3.3901568889461675,0.015611033702999322,0.995395188419185,most ambiguous margin decile,highly ambiguous
+9938,Dundee United,Scotland Premier League,2012/2013,0,Physical Defensive Build-Up,3.7760011096740396,3.7937166694519715,0.017715559777931933,0.9953302891803749,most ambiguous margin decile,highly ambiguous
+8722,1. FC Köln,Germany 1. Bundesliga,2014/2015,1,High-Pressure Wide Play,2.582717624772357,2.600469286571396,0.017751661799038754,0.9931736698869289,most ambiguous margin decile,highly ambiguous
+9790,Hamburger SV,Germany 1. Bundesliga,2011/2012,2,Strong Attack-Oriented Controlled Build-Up,2.7564394614064147,2.7783097157423313,0.021870254335916606,0.9921282158673684,most ambiguous margin decile,highly ambiguous
+10278,Hércules Club de Fútbol,Spain LIGA BBVA,2010/2011,2,Strong Attack-Oriented Controlled Build-Up,3.0627797583822933,3.086545128638417,0.023765370256123575,0.9923003328104237,most ambiguous margin decile,highly ambiguous
+9830,FC Nantes,France Ligue 1,2013/2014,0,Physical Defensive Build-Up,2.321760278986499,2.3491471878312664,0.027386908844767355,0.9883417654770066,most ambiguous margin decile,highly ambiguous
+8315,Athletic Club de Bilbao,Spain LIGA BBVA,2012/2013,0,Physical Defensive Build-Up,4.532808206846302,4.5613366918650975,0.028528485018795458,0.9937455866676813,most ambiguous margin decile,highly ambiguous
+10228,SC Heerenveen,Netherlands Eredivisie,2012/2013,0,Physical Defensive Build-Up,3.5114938554128727,3.5438720062349036,0.03237815082203088,0.9908636229623794,most ambiguous margin decile,highly ambiguous
+9847,Paris Saint-Germain,France Ligue 1,2014/2015,4,Elite All-Round Profile,2.0661622373322626,4.439585772367759,2.3734235350354966,0.46539527407988757,clearest margin decile,clearly separated
+8456,Manchester City,England Premier League,2011/2012,4,Elite All-Round Profile,2.42858588687544,4.772769460699511,2.3441835738240706,0.5088420689231237,clearest margin decile,clearly separated
+9810,Eintracht Frankfurt,Germany 1. Bundesliga,2012/2013,2,Strong Attack-Oriented Controlled Build-Up,1.1805263405600483,3.3997143817222004,2.219188041162152,0.3472427998383872,clearest margin decile,clearly separated
+10190,FC St. Gallen,Switzerland Super League,2013/2014,3,Lower-Strength Profile,2.748866125670764,4.934704007411778,2.185837881741014,0.5570478232416877,clearest margin decile,clearly separated
+8525,Willem II,Netherlands Eredivisie,2014/2015,3,Lower-Strength Profile,1.9304549360620615,4.085223606020237,2.154768669958175,0.4725457214183391,clearest margin decile,clearly separated
+9789,Borussia Dortmund,Germany 1. Bundesliga,2012/2013,4,Elite All-Round Profile,3.4218924332437317,5.569591727273404,2.1476992940296724,0.6143883790417293,clearest margin decile,clearly separated
+10267,Valencia CF,Spain LIGA BBVA,2013/2014,2,Strong Attack-Oriented Controlled Build-Up,2.986624656366275,5.09142185799249,2.104797201626215,0.5865993311235614,clearest margin decile,clearly separated
+9956,Grasshopper Club Zürich,Switzerland Super League,2014/2015,3,Lower-Strength Profile,1.4931950598400798,3.5814465343080206,2.088251474467941,0.4169251294236013,clearest margin decile,clearly separated
+8636,Inter,Italy Serie A,2010/2011,4,Elite All-Round Profile,2.6712392602074706,4.756217429555348,2.0849781693478775,0.5616310229234412,clearest margin decile,clearly separated
+9875,Napoli,Italy Serie A,2015/2016,4,Elite All-Round Profile,2.1957361431183444,4.276320198862927,2.0805840557445827,0.5134639224869527,clearest margin decile,clearly separated

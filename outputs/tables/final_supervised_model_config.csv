@@ -1,0 +1,15 @@
+setting,value
+model,GradientBoostingClassifier
+feature_set,Top 40
+feature_count,40
+imbalance_treatment,balanced sample weights
+selection_metric,validation Macro F1
+training_seasons,2010/11–2013/14
+validation_season,2014/15
+test_season,2015/16
+n_estimators,250
+learning_rate,0.05
+max_depth,2
+min_samples_leaf,5
+subsample,1.0
+random_state,42
